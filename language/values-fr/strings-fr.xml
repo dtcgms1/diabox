@@ -1,0 +1,271 @@
+<resources>
+    <string name="home_track">Mon suivi de données</string>
+    <string name="home_device">Statut du Périphérique</string>
+    <string name="home_device_name">Bubble</string>
+    <string name="cgm_abott">Abbott</string>
+    <string name="cgm_dexcom">Dexcom</string>
+    <string name="cgm_medtronic">Medtronic</string>
+    <string name="cgm_roche">Roche Diagnostics</string>
+    <string name="cgm_echo">Echo Therapeutiss</string>
+    <string name="cgm_other">Autres Appareils</string>
+    <string name="cgm_scan_title">Recherche Appareils</string>
+    <string name="brand_title">Séléction de la marque</string>
+    <string name="dexcom_title">Dexcom</string>
+    <string name="cgm_scan">Recherche</string>
+    <string name="add_cgm">Ajout CGM</string>
+    <string name="cgm_scanning">Recherche…</string>
+    <string name="scan_tips">Appareil non trouvé, vérifiez que votre Bubble soit bien chargé et prés de votre téléphone</string>
+    <string name="food">Nourriture</string>
+    <string name="insulin">Insuline</string>
+    <string name="exercise">Exercice</string>
+    <string name="reading">Lecture</string>
+    <string name="medication">Médicaments</string>
+    <string name="note">Note</string>
+    <string name="save">Enregistrer</string>
+    <string name="btn_ok">Ok</string>
+    <string name="protein">protéines</string>
+    <string name="fat">graisse</string>
+    <string name="sugar">sucre</string>
+    <string name="fiber">fibre</string>
+    <string name="cals">calories</string>
+    <string name="minutes">minutes</string>
+    <string name="add_note">ajouter une note</string>
+    <string name="carbs_g">glucides (g)</string>
+    <string name="cal">Cal</string>
+    <string name="g">g</string>
+    <string name="mmol">mmol/L</string>
+    <string name="mgdl">mg/dL</string>
+    <string name="pills">pilules</string>
+    <string name="day1">1 jour</string>
+    <string name="day2">7 jours</string>
+    <string name="day3">14 jours</string>
+    <string name="day4">30 jours</string>
+    <string name="day5">60 jours</string>
+
+    <string name="hour1">3 heures</string>
+    <string name="hour2">6 heures</string>
+    <string name="hour3">12 heures</string>
+    <string name="hour4">24 heures</string>
+
+    <string name="range_info">La durée la plus récente pendant laquelle vos lectures sont restées dans votre plage normale configurée (4,4 mmol / L à 6,7 mmol / L) \n\nSi vous étiez dans la plage pendant la dernière heure, mais que votre prochaine lecture est hors plage, votre \'temps dans la plage \' sera réinitialisé à zéro.</string>
+    <string name="range_info_title">Temps dans la cible</string>
+    <string name="setting">Réglages</string>
+    <string name="language">Langage</string>
+    <string name="data_collection">Collecte de données</string>
+    <string name="service">Service</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de pass</string>
+    <string name="key">Clef</string>
+    <string name="url">Url</string>
+    <string name="server">Serveur</string>
+    <string name="time_format">Heure Format</string>
+    <string name="range_unit">Intervalle&amp;Unité</string>
+    <string name="units">Unités</string>
+    <string name="extreme_high">Extrêmement Elevé</string>
+    <string name="target">Cible</string>
+    <string name="normal_range">Plage normale</string>
+    <string name="urgent_low">Urgent Bas</string>
+    <string name="display_high">Echelle du graphique</string>
+    <string name="sleep_hours">Heures de sommeil</string>
+    <string name="hour">Heures</string>
+    <string name="min">min</string>
+    <string name="settings">Réglages</string>
+    <string name="cgm">i-CGM</string>
+    <string name="integration">Intégration</string>
+    <string name="about">A Propos</string>
+    <string name="avg_glucose">Avg Glucose</string>
+    <string name="A1C">eA1C(NGSP%)</string>
+    <string name="readings">Lectures</string>
+    <string name="h1">1H</string>
+    <string name="h3">3H</string>
+    <string name="h6">6H</string>
+    <string name="h12">12H</string>
+    <string name="h24">24H</string>
+    <string name="details_title">Détails</string>
+    <string name="details_name">Nom</string>
+    <string name="details_sn">Numéro de série</string>
+    <string name="details_sensor_age">Age capteur</string>
+    <string name="details_sensor_status">Status Capteur</string>
+    <string name="details_start_time">Heure de début</string>
+    <string name="details_battery">Niveau Batterie</string>
+    <string name="details_hardware_version">Version Matériel</string>
+    <string name="details_firmware_version">Version Firmware</string>
+    <string name="check_firmware">Vérifier</string>
+    <string name="details_macaddress">AdresseMac</string>
+    <string name="details_state">Etat de la connexion</string>
+    <string name="details_calibration_mode">Mode de Calibration</string>
+    <string name="iftt">IFTT</string>
+    <string name="workflow_shortcuts">Workflow/Shortcuts</string>
+    <string name="http_server">Serveur HTTP interne</string>
+    <string name="http_server_integration">Android APS,Pebble,Garmin,Nightguard...Intégration!</string>
+    <string name="instructions">Instructions</string>
+    <string name="Dexcom_Share">Identifiants de partage Dexcom</string>
+    <string name="internal_ns">Identifiants de partage Nightscout</string>
+    <string name="loop_offline">Travailler comme source de données CGM pour APS </string>
+    <string name="dexname_empty">DexShare Nom vide</string>
+    <string name="dexpwd_empty">DexShare Mot de pass vide</string>
+
+    <string name="nsurl_empty">Nightscout Url vide</string>
+    <string name="nskey_empty">Nightscout API clef vide</string>
+
+    <string name="alert">Alerte</string>
+    <string name="alert1">Votre niveau de glucose actuel du capteur est</string>
+    <string name="alert2">Voulez-vous reporter l\'alarme ?</string>
+    <string name="alert_snoozed">  Alerte Reportée</string>
+    <string name="alert_snoozed_title">Votre mesure de glucose capteur est %1$s\n%2$s Alerte Reportée %3$s
+    </string>
+    <string name="connected">Connecté</string>
+    <string name="disconnect">Déconnecté</string>
+    <string name="a_title">Accepter</string>
+    <string name="a_content">DiaBox NE DOIT PAS être utilisé pour des décisions médicales. IT IS A RESEARCH AND EDUCATION TOOL ONLY AND IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION</string>
+    <string name="a_understand"> J\'AI COMPRIS ET J\'ACCEPTE</string>
+    <string name="about_version">Version</string>
+    <string name="about_name">version</string>
+    <string name="develop">A venir……</string>
+    <string name="this_app_needs_battery_optimization_whitelisting_or_it_will_not_work_well_please_reset_app_preferences">Cette application a besoin d\'une liste blanche d\'optimisation de la batterie ou elle ne fonctionnera pas bien. Veuillez réinitialiser les préférences de l\'application</string>
+    <string name="please_Allow_Permission">Veuillez accorder l\'autorisation</string>
+    <string name="needs_battery_optimization_whitelisting_for_proper_performance">Cette application a besoin de l\'optimisation de la batterie ou elle ne fonctionnera pas bien.</string>
+    <string name="bluetooth_error_not_supported">Erreur: Bluetooth non supporté par cet appareil </string>
+    <string name="high">Haut</string>
+    <string name="low">Bas</string>
+    <string name="average_title">Moyenne</string>
+    <string name="average_content">Aujourd\'hui\valeur moyenne.</string>
+    <string name="below_title">Au dessous de</string>
+    <string name="below_content">Aujourd\'hui\pourcentage de lectures inférieures à votre plage normale configurée ( %1$s ).</string>
+    <string name="range_title">Dans la gamme</string>
+    <string name="range_content">Aujourd\'hui\pourcentage de lectures qui se trouvent dans votre plage normale configurée ( %1$s ).</string>
+    <string name="above_title">Au dessus</string>
+    <string name="above_content">Aujourd\'hui\pourcentage de lectures au-dessus de votre plage normale configurée ( %1$s ).</string>
+    <string name="gauges_title">Ajouter des jauges</string>
+    <string name="dexcom_number">ID de l\'émetteur</string>
+    <string name="dexcom_num">Code d\'étalonnage</string>
+    <string name="sensor_no">Pas de Capteur</string>
+    <string name="device_no">Aucun appareil</string>
+    <string name="sensor_error">Erreur capteur</string>
+    <string name="upgrade">Mise à niveau</string>
+    <string name="start_upgrade">Démarrer la mise à niveau </string>
+    <string name="sensor_activation">Activer</string>
+    <string name="sensor_activation_content">Activer capteur</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="sensor_not_started">Pas commencé</string>
+    <string name="sensor_starting">Démarré</string>
+    <string name="sensor_ready">Prêt</string>
+    <string name="sensor_expired">Expiré</string>
+    <string name="sensor_ended">Terminé</string>
+    <string name="sensor_failed">Echoué</string>
+    <string name="follower_mode"> Mode Suiveur</string>
+    <string name="calibration_content">Faites attention s\'il vous plait!Choisir l\'étalonnage LSR signifie que le glucose du capteur sera généré par un autre algorithme, la lecture du glucose serait différente de celle du récepteur officiel, vous devriez prendre tout le risque lorsque vous y êtes.Cet algorithme d\'étalonnage a implémenté la logique basée sur https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764224</string>
+    <string name="login">s\'identifier</string>
+    <string name="usaccount">US Compte</string>
+    <string name="ea1c">eA1C</string>
+    <string name="ifcc">IFCC</string>
+    <string name="mmol_mol">(mmol/mol)</string>
+    <string name="connection">Test de connexion</string>
+    <string name="connected_success">Connecté avec succès</string>
+    <string name="login_success">Identifié avec succès</string>
+    <string name="login_out">Se déconnecter</string>
+    <string name="alert_content">La lecture du glucose de votre capteur est</string>
+    <string name="start_new_sensor">Démarrer un nouveau capteur</string>
+    <string name="snooze">Report</string>
+    <string name="upgrade_content">Un nouveau Firmware est disponible, veuillez le mettre à jour pour avoir de meilleures performances</string>
+    <string name="alert_snoozed_title2">Voulez-vous activer l\'alerte？</string>
+    <string name="dexcom_share_server">Téléchargement du serveur de partage Dexcom</string>
+    <string name="nightscout_share_server">Téléchargement du serveur de partage Nightscout</string>
+    <string name="bubble_request_new_title">Conseils</string>
+    <string name="bubble_request_new">Obtenez une nouvelle lecture de glucose？</string>
+    <string name="disable_low_alerts">Désactiver les alertes basses</string>
+    <string name="re_enable_low_alerts">Réactiver les alertes basses</string>
+    <string name="disable_high_alerts">Désactiver les alertes élevées</string>
+    <string name="re_enable_high_alerts">Réactiver les alertes hautes</string>
+    <string name="disable_all_alerts">Désactiver toutes les alertes</string>
+    <string name="re_enable_all_alerts">Réactiver toutes les alertes</string>
+    <string name="all_alerts_disabled_until">"Toutes les alertes désactivées jusqu'au "</string>
+    <string name="low_alerts_disabled_until">"Alertes basses désactivées jusqu'au "</string>
+    <string name="high_alerts_disabled_until">"Alertes élevées désactivées jusqu'à "</string>
+    <string name="speech_alerts">Désactiver la fonction vocale</string>
+    <string name="i_algorithm">i-Algorithme</string>
+    <string name="calibration_title">Calibration</string>
+    <string name="algorithm_title">Algorithme</string>
+    <string name="alert_disconnect">Déconnecté</string>
+    <string name="alert_low_battery">Batterie faible</string>
+    <string name="alert_low_battery_2">Batterie</string>
+    <string name="alert_sensor_life">Durée de vie du capteur</string>
+    <string name="alert_miss_reading">Lecture manquée</string>
+    <string name="alert_rise">Montée</string>
+    <string name="alert_drop">Descente</string>
+    <string name="alert_sound">Son</string>
+    <string name="alert_snooze">Report</string>
+    <string name="alert_choose">Choisir</string>
+    <string name="alert_time">Temps</string>
+    <string name="alert_more">Plus d\'alertes</string>
+    <string name="choose_default">Défaut</string>
+    <string name="choose_custom">Personnaliser</string>
+    <string name="unit_day">jour</string>
+    <string name="noty_rise_title">Le glucose augmente</string>
+    <string name="noty_rise_content">Le glucose augmente: </string>
+    <string name="noty_drop_title">Le glucose baisse</string>
+    <string name="noty_drop_content">Le glucose baisse: </string>
+    <string name="noty_battery_title">Batterie Faible</string>
+    <string name="noty_battery_content">Le niveau de la batterie est inférieur à: </string>
+    <string name="noty_disconnect_title">Déconnecté</string>
+    <string name="noty_disconnect_content">Déconnecté: </string>
+    <string name="noty_missreading_title">Lecture manquée</string>
+    <string name="noty_missreading_content">Lecture manquée : </string>
+    <string name="noty_sensorlife_title">Durée de vie du capteur</string>
+    <string name="noty_sensorlife_content">Durée de vie du capteur : </string>
+
+    <string name="trendnoncomputable">non calculable</string>
+    <string name="trenddoubledown">très fortement à la baisse</string>
+    <string name="trendsingledown">sensiblement à la baisse</string>
+    <string name="trendfortyfivedown">à la baisse</string>
+    <string name="trendflat">stable</string>
+    <string name="trendfortyfiveup">à la hausse</string>
+    <string name="trendsingleup">sensiblement à la hausse</string>
+    <string name="trenddoubleup">très fortement à la hausse</string>
+    <string-array name="spinnerEA1C">
+        <item>eA1C</item>
+        <item>IFCC</item>
+    </string-array>
+    <string-array name="gauges">
+        <item>Flux</item>
+        <item>Médian</item>
+        <item> A1c Estimée</item>
+        <item>Mini-graphe</item>
+        <item>au dessous de</item>
+        <item>au dessus</item>
+        <item>Protéine</item>
+        <item>Graisses</item>
+        <item>Calories</item>
+        <item>Action longue</item>
+        <item>Toute l\'insuline</item>
+        <item>Glucides / jour</item>
+        <item>Protéine/jour</item>
+        <item>Calories/jour</item>
+    </string-array>
+
+    <string-array name="spinnerHour">
+        <item>12H</item>
+        <item>24H</item>
+    </string-array>
+
+    <string-array name="spinnerData">
+        <item>Maitre</item>
+        <item>Suiveur</item>
+    </string-array>
+    <string-array name="spinnerServer">
+        <item>US</item>
+        <item>International</item>
+    </string-array>
+
+    <string-array name="spinnerInsulin">
+        <item>Rapide</item>
+        <item>Lente</item>
+        <item>Intermediaire</item>
+        <item>Prolongée</item>
+    </string-array>
+
+    <string-array name="spinnerDexcom">
+        <item>G5</item>
+        <item>G6</item>
+    </string-array>
+</resources>

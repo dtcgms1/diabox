@@ -1,0 +1,247 @@
+<resources>
+    <string name="home_track">My Data Tracking</string>
+    <string name="home_device">设备状态</string>
+    <string name="home_device_name">Bubble</string>
+    <string name="cgm_abott">雅培瞬感</string>
+    <string name="cgm_dexcom">德康动态</string>
+    <string name="cgm_medtronic">Medtronic</string>
+    <string name="cgm_roche">Roche Diagnostics</string>
+    <string name="cgm_echo">Echo Therapeutiss</string>
+    <string name="cgm_other">Other Devices</string>
+    <string name="cgm_scan_title">扫描设备</string>
+    <string name="brand_title">选择设备</string>
+    <string name="dexcom_title">Dexcom</string>
+    <string name="cgm_scan">扫描</string>
+    <string name="add_cgm">添加设备</string>
+    <string name="cgm_scanning">扫描中…</string>
+    <string name="scan_tips">未发现设备,请确保您的设备电量充足并使设备尽量靠近手机</string>
+    <string name="food">饮食</string>
+    <string name="insulin">胰岛素</string>
+    <string name="exercise">运动</string>
+    <string name="reading">血糖</string>
+    <string name="medication">用药</string>
+    <string name="note">备注</string>
+    <string name="save">保存</string>
+    <string name="btn_ok">Ok</string>
+    <string name="protein">蛋白质</string>
+    <string name="fat">脂肪</string>
+    <string name="sugar">糖类</string>
+    <string name="fiber">纤维</string>
+    <string name="cals">热量</string>
+    <string name="minutes">分钟</string>
+    <string name="add_note">添加备注</string>
+    <string name="carbs_g">碳水化合物(克)</string>
+    <string name="cal">碳水化合物</string>
+    <string name="g">克</string>
+    <string name="mmol">mmol/L</string>
+    <string name="mgdl">mg/dL</string>
+    <string name="pills">pills</string>
+    <string name="day1">1 天</string>
+    <string name="day2">7 天</string>
+    <string name="day3">14 天</string>
+    <string name="day4">30 天</string>
+    <string name="day5">60天</string>
+
+    <string name="hour1">3 小时</string>
+    <string name="hour2">6 小时</string>
+    <string name="hour3">12 小时</string>
+    <string name="hour4">24 小时</string>
+
+    <string name="range_info">The most recent amount of time your readings have stayed within your configured normal range ( 4.4 mmol/L- 6.7 mmol/L )
+        \n\nIf you were in range for the last hour, but your next reading is out of range, your\' time in Range\' will reset to zero.</string>
+    <string name="range_info_title">达标时间占比</string>
+    <string name="setting">设置</string>
+    <string name="language">语言</string>
+    <string name="data_collection">数据源</string>
+    <string name="service">服务</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="key">密钥</string>
+    <string name="url">网址</string>
+    <string name="server">服务器</string>
+    <string name="time_format">时间格式</string>
+    <string name="range_unit">范围&amp;单位</string>
+    <string name="units">单位</string>
+    <string name="extreme_high">极高</string>
+    <string name="target">目标</string>
+    <string name="normal_range">正常范围</string>
+    <string name="urgent_low">极低</string>
+    <string name="display_high">血糖显示高度</string>
+    <string name="sleep_hours">Sleep Hours</string>
+    <string name="hour">小时</string>
+    <string name="min">分钟</string>
+    <string name="settings">设置</string>
+    <string name="cgm">动态血糖</string>
+    <string name="integration">服务集成</string>
+    <string name="about">关于</string>
+    <string name="avg_glucose">平均血糖</string>
+    <string name="A1C">模拟糖化(NGSP%)</string>
+    <string name="readings">血糖数</string>
+    <string name="h1">1小时</string>
+    <string name="h3">3小时</string>
+    <string name="h6">6小时</string>
+    <string name="h12">12小时</string>
+    <string name="h24">24小时</string>
+    <string name="details_title">详情</string>
+    <string name="details_name">传感器类型</string>
+    <string name="details_sn">传感器编号</string>
+    <string name="details_sensor_age">使用天数</string>
+    <string name="details_sensor_status">工作状态</string>
+    <string name="details_start_time">启动时间</string>
+    <string name="details_battery">电量</string>
+    <string name="details_hardware_version">硬件版本</string>
+    <string name="details_firmware_version">固件版本</string>
+    <string name="check_firmware">检查更新</string>
+    <string name="details_macaddress">设备编号</string>
+    <string name="details_state">连接状态</string>
+    <string name="details_calibration_mode">校准模式</string>
+    <string name="iftt">IFTT</string>
+    <string name="workflow_shortcuts">Workflow/Shortcuts</string>
+    <string name="http_server">与其他App共享数据</string>
+    <string name="http_server_integration">Android APS,Xdrip...集成!</string>
+    <string name="instructions">说明</string>
+    <string name="Dexcom_Share">德康远程共享</string>
+    <string name="internal_ns">Nightscout远程共享</string>
+    <string name="loop_offline">与APS闭环系统共享数据 </string>
+    <string name="dexname_empty">德康用户名未填写</string>
+    <string name="dexpwd_empty">德康密码未填写</string>
+
+    <string name="nsurl_empty">Nightscout网址未填写</string>
+    <string name="nskey_empty">Nightscout密钥未填写</string>
+
+    <string name="alert">警报</string>
+    <string name="alert1">您的传感器葡萄糖值为</string>
+    <string name="alert2">您想暂停当前警报吗?</string>
+    <string name="alert_snoozed">警报已暂停</string>
+    <string name="alert_snoozed_title">您的传感器葡萄糖为 %1$s \n%2$s 警报暂停 %3$s </string>
+    <string name="connected">已连接</string>
+    <string name="disconnect">已断开</string>
+    <string name="a_title">风险告知确认</string>
+    <string name="a_content">DiaBox是一种研究和教育工具,不得用于医学治疗决策,我们无法保证程序的稳定性与有效性,也没有任何形式明示或暗示的保证,包括但不限于任何通用或者特定的用途. 有关程序质量和性能的全部风险及其可能带来的后台全部由您承担.如果程序证明是无效的,则您承担所有必要的服务,维修或纠正的费用.</string>
+    <string name="a_understand"> 我已充分理解并接受以上告知</string>
+    <string name="about_version">版本</string>
+    <string name="about_name">版本</string>
+    <string name="develop">开发中……</string>
+
+    <string name="this_app_needs_battery_optimization_whitelisting_or_it_will_not_work_well_please_reset_app_preferences">为了使应用可以更好的工作,请将应用添加到"电池优化白名单"</string>
+    <string name="please_Allow_Permission">请打开权限</string>
+    <string name="needs_battery_optimization_whitelisting_for_proper_performance">应用需要设置为不允许电池优化方可保障在后台更好的运行.</string>
+    <string name="bluetooth_error_not_supported">错误:当前手机蓝牙版本太低,请更换其他手机尝试 </string>
+    <string name="high">高</string>
+    <string name="low">低</string>
+    <string name="average_title">平均</string>
+    <string name="average_content">当天\'s 均值.</string>
+    <string name="below_title">以下</string>
+    <string name="below_content">Today\'s percentage of readings that are below your configured normal range ( %1$s ).</string>
+    <string name="range_title">达标率</string>
+    <string name="range_content">Today\'s percentage of readings that are within your configured normal range ( %1$s ).</string>
+    <string name="above_title">以上</string>
+    <string name="above_content">Today\'s percentage of readings that are above your configured normal range ( %1$s ).</string>
+    <string name="gauges_title">Add Gauges</string>
+    <string name="dexcom_number">发射器编号</string>
+    <string name="dexcom_num">校准编码</string>
+    <string name="sensor_no">未发现传感器</string>
+    <string name="device_no">未发现设备</string>
+    <string name="sensor_error">传感器懵逼</string>
+    <string name="upgrade">更新</string>
+    <string name="start_upgrade">开始更新 </string>
+    <string name="sensor_activation">启动传感器</string>
+    <string name="sensor_activation_content">启动传感器,可能会玩坏儿哦</string>
+    <string name="btn_cancel">取消</string>
+    <string name="sensor_not_started">未启动</string>
+    <string name="sensor_starting">启动中</string>
+    <string name="sensor_ready">工作中</string>
+    <string name="sensor_expired">已过期</string>
+    <string name="sensor_ended">已结束</string>
+    <string name="sensor_failed">探头挂逼</string>
+    <string name="follower_mode">远程监控</string>
+    <string name="calibration_content">Be Careful Please!
+Choose LSR Calibration means that the sensor glucose will be generated by another algorithm,
+        the glucose reading would be different from,the official receiver,you should take the entire risk when you\'re on it.
+This calibration algorithm implemented the logic based on https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764224</string>
+    <string name="login">登录</string>
+    <string name="usaccount">美国账户</string>
+    <string name="ea1c">模拟糖化</string>
+    <string name="ifcc">IFCC</string>
+    <string name="mmol_mol">(mmol/mol)</string>
+    <string name="connection">测试连接</string>
+    <string name="connected_success">连接成功</string>
+    <string name="login_success">已登录</string>
+    <string name="login_out">退出登录</string>
+    <string name="alert_content">您的传感器葡萄糖为</string>
+    <string name="start_new_sensor">启动新传感器</string>
+    <string name="snooze">暂停</string>
+    <string name="upgrade_content">发现新固件,更新后更强大</string>
+    <string name="alert_snoozed_title2">启用警报？</string>
+    <string name="dexcom_share_server">上传数据到德康远程服务器</string>
+    <string name="nightscout_share_server">上传数据到Nightscout</string>
+    <string name="bubble_request_new_title">提示</string>
+    <string name="bubble_request_new">获取新血糖值？</string>
+    <string name="disable_low_alerts">禁用低血糖警报</string>
+    <string name="re_enable_low_alerts">启用低血糖警报</string>
+    <string name="disable_high_alerts">禁用高血糖警报</string>
+    <string name="re_enable_high_alerts">启用高血糖警报</string>
+    <string name="disable_all_alerts">禁用所有警报</string>
+    <string name="re_enable_all_alerts">启用所有警报</string>
+    <string name="all_alerts_disabled_until">"所有警报被禁用直到 "</string>
+    <string name="low_alerts_disabled_until">"低血糖警报被禁用直到 "</string>
+    <string name="high_alerts_disabled_until">"高血糖警报被禁用直到 "</string>
+    <string name="speech_alerts">禁用语音播报</string>
+
+    <string name="trendnoncomputable">无法计算</string>
+    <string name="trenddoubledown">急剧下降</string>
+    <string name="trendsingledown">显著下降</string>
+    <string name="trendfortyfivedown">下降</string>
+    <string name="trendflat">平稳</string>
+    <string name="trendfortyfiveup">升高</string>
+    <string name="trendsingleup">显著升高</string>
+    <string name="trenddoubleup">急剧升高</string>
+    <string name="share_data">与智能手表共享数据</string>
+    <string name="share_data_content">Pebble,Garmin,Nightguard...集成!</string>
+
+    <string-array name="spinnerEA1C">
+        <item>模拟糖化</item>
+        <item>IFCC</item>
+    </string-array>
+    <string-array name="gauges">
+        <item>Flux</item>
+        <item>Median</item>
+        <item>Estimated A1c</item>
+        <item>Mini-graph</item>
+        <item>Below</item>
+        <item>Above</item>
+        <item>Protein</item>
+        <item>Fat</item>
+        <item>Calories</item>
+        <item>Long Acting</item>
+        <item>All insulin</item>
+        <item>Carbs/day</item>
+        <item>Protein/day</item>
+        <item>Calories/day</item>
+    </string-array>
+
+    <string-array name="spinnerHour">
+        <item>天</item>
+        <item>24小时</item>
+    </string-array>
+    <string-array name="spinnerData">
+        <item>本地监控</item>
+        <item>远程监控</item>
+    </string-array>
+    <string-array name="spinnerServer">
+        <item>美国账户</item>
+        <item>国际账户</item>
+    </string-array>
+
+    <string-array name="spinnerInsulin">
+        <item>Rapid</item>
+        <item>Short</item>
+        <item>Intermediate</item>
+        <item>Long</item>
+    </string-array>
+
+    <string-array name="spinnerDexcom">
+        <item>G5</item>
+        <item>G6</item>
+    </string-array>
+</resources>
