@@ -67,7 +67,7 @@
     <string name="urgent_low">kritiskt lågt</string>
     <string name="display_high">Grafhöjd</string>
     <string name="sleep_hours">Sömn timmar</string>
-    <string name="hour">Tider</string>
+    <string name="hour">timmar</string>
     <string name="min">min</string>
     <string name="settings">Inställningar</string>
     <string name="cgm">i-CGM</string>
@@ -114,7 +114,7 @@
     <string name="connected">Ansluten</string>
     <string name="disconnect">Koppla från</string>
     <string name="a_title">Avtal</string>
-    <string name="a_content">DiaBox MÅSTE INTE ANVÄNDAS för att fatta medicinska beslut. DET ÄR ENDAST ETT FORSKNINGS- OCH UTBILDNINGSVERKTYG OCH GIVES SOM ÄR UTAN GARANTI AV NÅGON SIN, ELLER UTTRYCKT ELLER IMPLICERAD, INKLUDERANDE, MEN INTE BEGRÄNSAD TILL, DE IMPLICERADE GARANTIERNA FÖR MERCHANTABILITET OCH FITNESS FÖR EN SÄRSKILD TILLSTÅND. DEN HELA RISKEN MED PROGRAMMETS KVALITET OCH PRESTANDA ÄR MED DIG. BÖR PROGRAMMET BEVISA DEFEKTIVT, DU ANTAGER KOSTNADEN FÖR ALL NÖDVÄNDIG SERVICE, REPARATION ELLER KORREKTION</string>
+    <string name="a_content">DiaBox FÅR INTE ANVÄNDAS för att fatta medicinska beslut. DET ÄR ENDAST ETT FORSKNINGS- OCH UTBILDNINGSVERKTYG OCH GIVES "SOM DET ÄR" UTAN GARANTI AV NÅGOT SLAG, ELLER UTTRYCKT ELLER IMPLICERAD, INKLUDERANDE, MEN INTE BEGRÄNSAD TILL, DE IMPLICERADE GARANTIERNA FÖR MERCHANTABILITET OCH FITNESS FÖR ETT SÄRSKILD SYFTE. DEN HELA RISKEN MED PROGRAMMETS KVALITET OCH PRESTANDA ÄR MED DIG. SKULLE PROGRAMMET PÅVISA DEFEKT, DU ANTAGER KOSTNADEN FÖR ALL NÖDVÄNDIG SERVICE, REPARATION ELLER KORREKTION</string>
     <string name="a_understand">Jag förstår och håller med</string>
     <string name="about_version">Version</string>
     <string name="about_name">version</string>
@@ -123,8 +123,8 @@
     <string name="please_Allow_Permission">Tillåt tillåtelse</string>
     <string name="needs_battery_optimization_whitelisting_for_proper_performance">Den här appen behöver vitlistning för batterioptimering eller så fungerar den inte bra.</string>
     <string name="bluetooth_error_not_supported">Fel: Bluetooth stöds inte av den här enheten</string>
-    <string name="high">High</string>
-    <string name="low">Low</string>
+    <string name="high">Högt</string>
+    <string name="low">Lågt</string>
     <string name="average_title">Genomsnitt</string>
     <string name="average_content">Dagens medelvärde.</string>
     <string name="below_title">Nedan</string>
@@ -184,10 +184,10 @@
     <string name="calibration_title">Kalibrering</string>
     <string name="algorithm_title">Algoritm</string>
     <string name="alert_disconnect">Koppla från</string>
-    <string name="alert_low_battery">Låg batteri</string>
+    <string name="alert_low_battery">Lågt batteri</string>
     <string name="alert_low_battery_2">Batteri</string>
     <string name="alert_sensor_life">Sensor Life</string>
-    <string name="alert_miss_reading">Missad Reading</string>
+    <string name="alert_miss_reading">Missad läsning</string>
     <string name="alert_rise">Stiger</string>
     <string name="alert_drop">Sjunker</string>
     <string name="alert_sound">Ljud</string>
@@ -200,8 +200,8 @@
     <string name="unit_day">dag</string>
     <string name="noty_rise_title">Glukos stiger</string>
     <string name="noty_rise_content">Glukos stiger:</string>
-    <string name="noty_drop_title">Glukos tappar</string>
-    <string name="noty_drop_content">Glukos tappar:</string>
+    <string name="noty_drop_title">Glukos sjunker</string>
+    <string name="noty_drop_content">Glukos sjunker:</string>
     <string name="noty_battery_title">Batteri låg</string>
     <string name="noty_battery_content">Batterinivån är mindre än:</string>
     <string name="noty_disconnect_title">Kopplad från</string>
@@ -236,7 +236,7 @@
     <string name="speak_high">Högt värde</string>
     <string name="speak_low">lågt värde</string>
     <string name="speak_override">Överstyr systemvolymen</string>
-    <string name="speak_custom_volume">Valfri Volume</string>
+    <string name="speak_custom_volume">Valfri Volym</string>
     <string name="trendnoncomputable">ej beräkningsbar</string>
     <string name="trenddoubledown">dramatiskt nedåt</string>
     <string name="trendsingledown">betydligt nedåt</string>
