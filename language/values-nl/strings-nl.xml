@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cgm_abott">Freestyle libre</string>
+    <string name="cgm_abott">Freestyle Libre</string>
     <string name="home_device_name">Bubble</string>
     <string name="cgm_dexcom">Dexcom</string>
     <string name="home_device">Status apparaat</string>
@@ -30,7 +30,7 @@
     <string name="food">Voedsel</string>
     <string name="scan_tips">Apparaat niet gevonden. Zorg er voor dat de Bubble volledig is opgeladen en houdt deze zo dicht mogelijk bij je telefoon</string>
     <string name="cgm_scanning">Aan het scannen…</string>
-    <string name="add_cgm">CGM toevoegen</string>
+    <string name="add_cgm">Sensor toevoegen</string>
     <string name="cgm_scan">Scan</string>
     <string name="alert_u_low">Extreem laag</string>
     <string name="alert_u_high">Extreem hoog</string>
@@ -64,7 +64,7 @@
     <string name="details_macaddress">MacAddress</string>
     <string name="http_server_integration">AndroidAPS, Pebble, Garmin, Nightguard... Integratie!</string>
     <string name="nightscout_share_server">Nightscout Share Server Upload</string>
-    <string name="h6">6U</string>
+    <string name="h6">6u</string>
     <string name="alert_snoozed_title">Glucosewaarde volgens sensor is %1$s</string>
     <string name="choose_local">Lokaal</string>
     <string name="connected">Verbonden</string>
@@ -73,10 +73,10 @@
     <string name="alert">Waarschuwing</string>
     <string name="alert_devices">Apparaat</string>
     <string name="alert2">Wilt u het alarm vertragen\?</string>
-    <string name="h12">12U</string>
+    <string name="h12">12u</string>
     <string name="login">Inloggen</string>
     <string name="sensor_not_started">Niet gestart</string>
-    <string name="h3">3U</string>
+    <string name="h3">3u</string>
     <string name="about_name">versie</string>
     <string name="mgdl">mg/dL</string>
     <string name="bubble_request_new">Glucosewaarde nu uitlezen\?</string>
@@ -152,7 +152,7 @@
     <string name="algorithm_title">Algoritme</string>
     <string name="re_enable_low_alerts">Zet alarm voor laag weer aan</string>
     <string name="sensor_expired">Verlopen</string>
-    <string name="h24">24U</string>
+    <string name="h24">24u</string>
     <string name="above_content">Percentage van de metingen vandaag beneden het ingestelde normale bereik ( %1$s ).</string>
     <string name="upgrade_content">Er is nieuwe firmware beschikbaar. Graag opwaarderen voor betere prestaties</string>
     <string name="average_content">De gemiddelde waarde van vandaag.</string>
@@ -163,7 +163,7 @@
     <string name="sensor_activation_content">Activeer sensor</string>
     <string name="settings">Instellingen</string>
     <string name="alert_rise">Tempo van stijgen</string>
-    <string name="integration">Integratie</string>
+    <string name="integration">Koppelingen</string>
     <string name="low">Laag</string>
     <string name="all_alerts_disabled_until">"Alle alarmen uitgeschakeld tot "</string>
     <string name="sensor_activation">Activeer</string>
@@ -171,15 +171,15 @@
     <string name="usaccount">Amerikaans account</string>
     <string name="extreme_high">Extreem hoog</string>
     <string name="above_title">Boven</string>
-    <string name="details_sensor_status">Sensor Status</string>
+    <string name="details_sensor_status">Sensor status</string>
     <string name="high_alerts_disabled_until">"Alarm voor hoog uitgeschakeld tot "</string>
     <string name="alert_low_battery">Batterij laag</string>
     <string name="please_Allow_Permission">Verleen toestemming</string>
     <string name="iftt">IFTT</string>
     <string name="details_title">Details</string>
     <string name="range_title">Tijd binnen bereik</string>
-    <string name="h1">1U</string>
-    <string name="alert_disconnect">Signaal verbroken</string>
+    <string name="h1">1u</string>
+    <string name="alert_disconnect">Verbinding verbroken</string>
     <string name="nsurl_empty">Nightscout Url is blanco</string>
     <string name="Dexcom_Share">inloggegevens Dexcom Share</string>
     <string name="display_high">Hoogte grafiek</string>
@@ -190,7 +190,7 @@
     <string name="setting">Instellingen</string>
     <string name="disable_high_alerts">Zet alarm voor hoog uit</string>
     <string name="this_app_needs_battery_optimization_whitelisting_or_it_will_not_work_well_please_reset_app_preferences">Deze app vereist \'battery optimization whitelisting\' voor correcte werking. Herstel de app-instellingen binnen Android.</string>
-    <string name="time_format">Weergave tijd</string>
+    <string name="time_format">Tijdweergave</string>
     <string name="urgent_low">Urgent laag</string>
     <string name="g">g</string>
     <string name="cgm">i-CGM</string>
@@ -199,7 +199,7 @@
     <string name="language">Taal</string>
     <string name="alert_snoozed_title2">Alarm activeren\?</string>
     <string name="details_calibration_mode">Calibratiemodus</string>
-    <string name="details_name">Naam</string>
+    <string name="details_name">Type</string>
     <string name="start_new_sensor">Start nieuwe sensor</string>
     <string name="range_unit">Bereik en eenheden</string>
     <string name="sensor_ready">Gereed</string>
@@ -207,10 +207,10 @@
     <string name="develop">Binnenkort…</string>
     <string name="sensor_failed">Mislukt</string>
     <string name="service">Service</string>
-    <string name="internal_ns">Inloggegevens Nightscout Share</string>
+    <string name="internal_ns">Nightscout Share inloggegevens</string>
     <string name="details_firmware_version">Firmware versie</string>
     <string name="avg_glucose">Gemiddelde glucose</string>
-    <string name="dexname_empty">DexShare maam is blanco</string>
+    <string name="dexname_empty">DexShare naam is blanco</string>
     <string name="readings">Metingen</string>
     <string name="ea1c">eA1C</string>
     <string name="alert_snoozed">Alarm gesluimerd</string>
@@ -355,7 +355,7 @@
     <string name="automatic_bluetooth">Forceer Bluetooth herstart</string>
     <string name="nfc_scan_error">NFC scanfout</string>
     <string name="nfc_scan_success">NFC scan gelukt</string>
-    <string name="LibreView_Share">LibreView logingegevens</string>
+    <string name="LibreView_Share">LibreView inloggegevens</string>
     <string name="calibration_delete">verwijder deze kalibratiegegevens\?</string>
     <string name="libreviewemail_empty">Email is leeg</string>
     <string name="toast_graph_height">De hoogte van de grafiek dient minimaal gelijk aan uw hoog/zeer hoog waarde te zijn</string>
