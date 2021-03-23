@@ -290,5 +290,130 @@
     <string name="share_data">Передавать данные на умныечасы</string>
     <string name="share_data_content">Pebble,Garmin,Nightguard...Интеграция!</string>
 
+    <!--2021-03-23-->
+    <string name="share_gwatch_data" translatable="false">Share data with GWatch</string>
+    <string name="share_gwatch_data_content" translatable="false">GWatch Integration!</string>
+    <string name="watch" translatable="false">Watch</string>
+    <string name="watlaa" translatable="false">Watlaa</string>
+    <string name="bubble_fw_update" translatable="false">Please Update your Bubble to the latest FW to get Libre2/Pro/US 14 days native support</string>
+    <string name="enter_first_bg_value" translatable="false">Enter First BG Value</string>
+    <string name="enter_second_bg_value" translatable="false">Enter Second BG Value</string>
+    <string name="calibration_can_not_be_blank" translatable="false">Calibration can not be blank</string>
+    <string name="enter_blood_glucose_value" translatable="false">Enter Blood Glucose Value</string>
+    <string name="override_calibration" translatable="false">Override Calibration</string>
+    <string name="calibration_graph_no_calibration" translatable="false">calibration graph (no calibration)</string>
+    <string name="calibration_plugin_header" translatable="false">calibration plugin header</string>
+    <string name="calibration_out_of_range" translatable="false">Calibration only works in Range %1$s--%2$s %3$s
+     Please Calibrate when your glucose is in range.</string>
+    <string name="calibration_sensor_status" translatable="false">Calibration is not available when your Sesnor is  %1$s
+        ,check your sensor with Librelink or Reader</string>
+    <string name="calibration_glucose_30min" translatable="false">Sensor value is too flat to calibrate,
+        check your sensor with Librelink or Reader</string>
+    <string name="calibration_glucose_18min" translatable="false">You must have 3 blood glucose levels within 18 minutes,
+        check your sensor with Librelink or Reader</string>
+    <string name="calibration_delete" translatable="false">Delete This Calibration data?</string>
+    <string name="calibration_delete_all" translatable="false">Delete all calibration data?</string>
+    <string name="calibration_mode_factory" translatable="false">Factory</string>
+    <string name="calibration_mode_calibration" translatable="false">BG Calibration Mode</string>
+    <string name="delete_key" translatable="false">Delete</string>
+    <string name="delete_all_key" translatable="false">Delete All</string>
+    <string name="toast_graph_height" translatable="false">The Graph Height cannot be set lower than your High/Very High target</string>
+    <string name="calibrationt_available" translatable="false">It\'s not a good Calibration point, try to Calibrate 30 mins later</string>
+    <string name="details_maxsensorlife" translatable="false">MaxSensorLife</string>
+    <string name="unit_day1" translatable="false">d</string>
+    <string name="unit_hour1" translatable="false">h</string>
+    <string name="unit_minutes1" translatable="false">m</string>
+    <string name="all_alerts_disabled_until_reenable" translatable="false">All Alerts Disabled Until You Re-enable</string>
+    <string name="sensor_magic_code" translatable="false">Sensor Magic Code</string>
+    <string name="algorithm_magic_code" translatable="false">Algorithm Magic Code</string>
+    <string name="ntf_delta" translatable="false">Delta:</string>
+    <string name="nfc_tap" translatable="false">Please tap NFC tags</string>
+    <string name="nfc_scan_title" translatable="false">Ready to scan</string>
+    <string name="nfc_libre2_check" translatable="false">Libre2 BT direct connect</string>
+    <string name="automatic_bluetooth" translatable="false">Force Restart Bluetooth</string>
+    <string name="nfc_scan_error" translatable="false">NFC Scan error</string>
+    <string name="nfc_scan_success" translatable="false">NFC Scan Success</string>
+    <string name="nfc_scan_timeout" translatable="false">NFC Scan timeout</string>
+    <string name="LibreView_Share" translatable="false">LibreView Credentials</string>
+    <string name="libreview_server" translatable="false">LibreView Upload</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="libreviewemail_empty" translatable="false">Email Null</string>
+    <string name="libreviewpwd_empty" translatable="false">Password Null</string>
+    <string name="libreview_logout" translatable="false">LibreView  logged out</string>
+    <string name="libreview_logout2" translatable="false">It seems that you LibreView account logged out,you need to log in in DiaBox</string>
+    <string name="sensor_time_left" translatable="false">Left</string>
+    <string name="nfc_off" translatable="false">NFC OFF</string>
+    <string name="sensor_status_check" translatable="false">Sensor Status Check</string>
+    <string name="glucose_range_check" translatable="false">Glucose Range Check</string>
+    <string name="difference_glucose_check" translatable="false">Difference between Sensor Glucose and Finger Test Glucose Check</string>
+    <string name="change_rate_check" translatable="false">Change Rate Of Glucose</string>
+    <string name="calibration_time_check" translatable="false">After the first valid BG point, at least a 15-minute gap is required to enter the next point for calibration</string>
+    <string name="nfc_change_ble_connect" translatable="false">You Bubble will be disconnected if you switch to Libre2 BLE direct mode</string>
+    <string name="add_cgm_bubble" translatable="false">Add bubble</string>
+    <string name="master_magic_code" translatable="false">Master Code</string>
+    <string name="cal_time_2h" translatable="false">Calibration point  must be occurred a minimum of 2h after a successful calibration point.</string>
+    <string name="sensor_unsupported" translatable="false"> sensor Unsupported</string>
+    <string name="calibration_confirm" translatable="false">Confirm Your BG Test Result is</string>
+    <string name="thresholds" translatable="false">Thresholds</string>
+    <string name="A1C_key" translatable="false">A1C</string>
+    <string name="get_new_glucose" translatable="false">Get A New Glucose Reading....</string>
+
+    <string name="rad_h1" translatable="false">1d</string>
+    <string name="rad_h2" translatable="false">7d</string>
+    <string name="rad_h3" translatable="false">14d</string>
+    <string name="rad_h4" translatable="false">1M</string>
+    <string name="rad_h5" translatable="false">3M</string>
+    <string name="nightscout" translatable="false">Nightscout</string>
+    <string name="reset_calibration" translatable="false">Reset Calibration</string>
+    <string name="calibration_rules" translatable="false">Calibration Rules</string>
+    <string name="invalid_qr_code" translatable="false">Invalid QR code</string>
+    <string name="copy_success" translatable="false">Copy Success</string>
+    <string name="reading_min" translatable="false">Update reading in 1 min interval</string>
+    <string name="recommended_ns_service" translatable="false">Recommended NS Service Provider</string>
+    <string name="add_ns" translatable="false">Add Nightscout</string>
+
+    <string name="day_1" translatable="false">1 Day</string>
+    <string name="days_7" translatable="false">7 Days</string>
+    <string name="days_14" translatable="false">14 Days</string>
+    <string name="month_1" translatable="false">1 Month</string>
+    <string name="months_3" translatable="false">3 Months</string>
+    <string name="import_db" translatable="false">Import/Export</string>
+    <string name="import_tilte" translatable="false">Import</string>
+    <string name="import_content" translatable="false">Import this data</string>
+    <string name="version_details" translatable="false">Version details</string>
+    <string name="download_now" translatable="false">Download Now</string>
+    <string name="downloaded" translatable="false">Downloaded</string>
+    <string name="failed" translatable="false">Failed</string>
+    <string name="update_is_in_your_downloads_folder" translatable="false">Update is in your downloads folder</string>
+    <string name="file_appears_corrupt" translatable="false">File appears corrupt!</string>
+    <string name="download_timeout" translatable="false">Download timeout!</string>
+    <string name="internal_problems" translatable="false">Internal problems - trying with android system</string>
+    <string name="data_error" translatable="false">Data error: </string>
+    <string name="need_permission_download" translatable="false">Need permission to download file</string>
+    <string name="already_downloading" translatable="false">Already downloading!</string>
+    <string name="attempting_background_download" translatable="false">Attempting background download...</string>
+    <string name="latest_version" translatable="false">This is the latest version</string>
+    <string name="a_new_version_is_available" translatable="false">A new version is available</string>
+    <string name="glucose_oop_min" translatable="false">Sensor Low Threshold Constraint</string>
+    <string name="glucose_oop_max" translatable="false">Sensor High Threshold Constraint</string>
+    <string name="calibration_time" translatable="false">BG Calibration Data Point Expired</string>
+    <string name="libre2_disconnected" translatable="false">Cannot Calibrate for Libre2 Disconnected with DialBox more than 5 mins</string>
+    <string name="unit_Day" translatable="false">Day</string>
+    <string name="master" translatable="false">Master</string>
+    <string name="follower" translatable="false">Follower Invitation</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="diabox_follow" translatable="false">DiaBox Follow</string>
+    <string name="diabox_follower_name" translatable="false">Followed:%1$s</string>
+    <string name="add_follower_success" translatable="false">You had followed:%1$s</string>
+    <string name="follower_delete" translatable="false">Delete follower</string>
+    <string name="follower_management" translatable="false">Follower Management</string>
+    <string name="follower_token_timeout" translatable="false">Token Expired, Pls Request a new Follow QR</string>
+    <string name="share_log" translatable="false">Share log</string>
+    <string name="userprofile" translatable="false">UserProfile</string>
+    <string name="userprofile_name" translatable="false">NickName</string>
+    <string name="userprofile_photo" translatable="false">Photo</string>
+    <string name="sensor_activation_success_wait" translatable="false">Sensor is activated,it will be ready at:%1$s</string>
+    <string name="log_out_content" translatable="false">LogOut You need to log in again</string>
+    <string name="check_firmware_new_version" translatable="false">Check New Firmware Version</string>
 
 </resources>

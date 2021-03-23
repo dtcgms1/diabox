@@ -227,6 +227,7 @@ This calibration algorithm implemented the logic based on https://www.ncbi.nlm.n
     <string name="sensor_not_broken" translatable="false">permanent error</string>
     <string name="choose_local" translatable="false">Local</string>
     <string name="alert_glucose" translatable="false">Glucose</string>
+
     <string name="alert_high" translatable="false">High</string>
     <string name="alert_low" translatable="false">Low</string>
     <string name="alert_u_high" translatable="false">Extreme High</string>
@@ -439,6 +440,7 @@ This calibration algorithm implemented the logic based on https://www.ncbi.nlm.n
 
     <string name="unit_Day" translatable="false">Day</string>
     <string name="master" translatable="false">Master</string>
+
     <string name="follower" translatable="false">Follower Invitation</string>
     <string name="sign_in" translatable="false">Sign In</string>
     <string name="diabox_follow" translatable="false">DiaBox Follow</string>
@@ -454,19 +456,6 @@ This calibration algorithm implemented the logic based on https://www.ncbi.nlm.n
     <string name="sensor_activation_success_wait" translatable="false">Sensor is activated,it will be ready at:%1$s</string>
     <string name="log_out_content" translatable="false">LogOut You need to log in again</string>
     <string name="check_firmware_new_version" translatable="false">Check New Firmware Version</string>
-
-
-
-
-
-
-
-
-
-    <string name="userprofile" translatable="false">UserProfile</string>
-    <string name="userprofile_name" translatable="false">NickName</string>
-    <string name="userprofile_photo" translatable="false">Photo</string>
-
 
     <string name="pump_status_never_contacted" translatable="false">Never contacted</string>
     <string name="pump_status_waking_up" translatable="false">Waking up</string>
