@@ -32,7 +32,7 @@
 	<string name="cals">Kalorien</string>
 	<string name="minutes">Minuten</string>
 	<string name="add_note">Notiz hinzufügen</string>
-	<string name="carbs_g">Kohlehydrate(g)</string>
+	<string name="carbs_g">Kohlenhydrate(g)</string>
 	<string name="cal">Kalorien</string>
 	<string name="g">g</string>
 	<string name="mmol">mmol/L</string>
@@ -114,9 +114,9 @@
 
 	<string name="alert">Alarm</string>
 	<string name="alert1">Ihr aktueller Sensor-Glukosespiegel ist</string>
-	<string name="alert2">Möchten Sie den Alarm ausschalten?</string>
-	<string name="alert_snoozed">Alarm ausgeschaltet</string>
-	<string name="alert_snoozed_title">Ihre Sensor Glucose ist %1$s\ n%2$s Der Alarm wird für %3$s ausgeschaltet</string>
+	<string name="alert2">Alarm ausschalten?</string>
+	<string name="alert_snoozed">Alarm schlummert</string>
+	<string name="alert_snoozed_title">Ihre Sensor Glucose ist %1$s\ n%2$s Der Alarm schlummert für %3$s</string>
 	<string name="connected">verbunden</string>
 	<string name="disconnect">nicht verbunden</string>
 	<string name="a_title">einverstanden</string>
@@ -134,12 +134,12 @@
 	<string name="low">Tief</string>
 	<string name="average_title">Durchschnitt</string>
 	<string name="average_content">Tagesdurchsnitt</string>
-	<string name="below_title">unter dem Bereich</string>
-	<string name="below_content">Der heutige Prozentsatz der Messwerte, die unter Ihrem konfigurierten Normalbereich liegen  ( %1$s ).</string>
-	<string name="range_title">im Bereich</string>
-	<string name="range_content">Der heutige Prozentsatz der Messwerte, die innerhalb Ihres konfigurierten normalen Bereichs liegen ( %1$s ).</string>
-	<string name="above_title">über dem Bereich</string>
-	<string name="above_content">Der heutige Prozentsatz der Messwerte, die über Ihrem konfigurierten Normalbereich liegen ( % 1$s ).</string>
+	<string name="below_title">unter dem Zielbereich</string>
+	<string name="below_content">Der heutige Prozentsatz der Messwerte, die unter Ihrem konfigurierten Zielbereich liegen  ( %1$s ).</string>
+	<string name="range_title">im Zielbereich</string>
+	<string name="range_content">Der heutige Prozentsatz der Messwerte, die innerhalb Ihres konfigurierten Zielbereichs liegen ( %1$s )</string>
+	<string name="above_title">über dem Zielbereich</string>
+	<string name="above_content">Der heutige Prozentsatz der Messwerte, die über Ihrem konfigurierten Zielbereich liegen ( % 1$s )</string>
 	<string name="gauges_title">Anzeigen hinzufügen</string>
 	<string name="dexcom_number">Transmitter ID</string>
 	<string name="dexcom_num">Calibration Code</string>
@@ -153,7 +153,7 @@
 	<string name="btn_cancel">löschen</string>
 	<string name="sensor_not_started">nicht gestartet</string>
 	<string name="sensor_starting">starten</string>
-	<string name="sensor_ready">Senso bereit</string>
+	<string name="sensor_ready">Sensor bereit</string>
 	<string name="sensor_expired">abgelaufen</string>
 	<string name="sensor_ended">beendet</string>
 	<string name="sensor_failed">gescheitert</string>
@@ -173,9 +173,9 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="login_out">Log Out</string>
 	<string name="alert_content">Ihr Sensor Glukosewert ist</string>
 	<string name="start_new_sensor">neuen Sensor starten</string>
-	<string name="snooze">Snooze</string>
+	<string name="snooze">schlummern</string>
 	<string name="upgrade_content">Eine neue FirmWare ist verfügbar. Bitte aktualisieren Sie sie, um eine bessere Leistung zu erzielen</string>
-	<string name="alert_snoozed_title2">wollen Sie den Alarm einschalten?</string>
+	<string name="alert_snoozed_title2">wollen Sie schlummern aktivieren?</string>
 	<string name="dexcom_share_server">Dexcom Share Server Upload</string>
 	<string name="nightscout_share_server">Nightscout Share Server Upload</string>
 	<string name="bubble_request_new_title">Tips</string>
@@ -191,9 +191,9 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="high_alerts_disabled_until">"hohe Alarme ausschalten bis "</string>
 	<string name="speech_alerts">Sprache deaktivieren</string>
 	<string name="i_algorithm" translatable="false">i-Algorithmus</string>
-	<string name="calibration_title" translatable="false">Calibration</string>
+	<string name="calibration_title" translatable="false">Kalibrierung</string>
 	<string name="algorithm_title" translatable="false">Smooth Algorithm</string>
-	<string name="alert_devices" translatable="false">Gerät</string>
+	<string name="alert_devices" translatable="false">Geräte</string>
 	<string name="alert_sensor" translatable="false">Sensor</string>
 	<string name="alert_disconnect" translatable="false">Signalverlust</string>
 	<string name="alert_low_battery" translatable="false">niedrige Batterie</string>
@@ -203,7 +203,7 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="alert_rise" translatable="false">Anstiegsrate</string>
 	<string name="alert_drop" translatable="false">Fallgeschwindigkeit</string>
 	<string name="alert_sound" translatable="false">Sound</string>
-	<string name="alert_snooze" translatable="false">Snooze</string>
+	<string name="alert_snooze" translatable="false">schlummern</string>
 	<string name="alert_choose" translatable="false">wähle</string>
 	<string name="alert_time" translatable="false">Zeit</string>
 	<string name="alert_more" translatable="false">weitere Alarme</string>
@@ -219,22 +219,22 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="noty_disconnect_title" translatable="false">nicht verbunden</string>
 	<string name="noty_disconnect_content" translatable="false">nicht verbunden:</string>
 	<string name="noty_missreading_title" translatable="false">Lesefehler</string>
-	<string name="noty_missreading_content" translatable="false">Lesefehler:</string>
+	<string name="noty_missreading_content" translatable="false">Lesefehler</string>
 	<string name="noty_sensorlife_title" translatable="false">Lebensdauer d. Sensors</string>
 	<string name="noty_sensorlife_content" translatable="false">Lebensdauer d. Sensors:</string>
-	<string name="forget_device" translatable="false">Gerät vergessen</string>
+	<string name="forget_device" translatable="false">Gerät entfernen</string>
 	<string name="wear_connect" translatable="false">verbinden</string>
 	<string name="sensor_not_running" translatable="false">läuft nicht</string>
 	<string name="sensor_not_broken" translatable="false">dauerhafter Fehler</string>
 	<string name="choose_local" translatable="false">Local</string>
-	<string name="alert_glucose" translatable="false">Glucose</string>
+	<string name="alert_glucose" translatable="false">Blutzucker</string>
 
 	<string name="alert_high" translatable="false">Hoch</string>
 	<string name="alert_low" translatable="false">Tief</string>
 	<string name="alert_u_high" translatable="false">extrem Hoch</string>
 	<string name="alert_u_low" translatable="false">extrem Tief</string>
-	<string name="alert_snoozed_all" translatable="false">Alle Alarme \nSnoozed</string>
-	<string name="alert_snoozed_low_and_high" translatable="false">Tief Hoch \nAlert Snoozed</string>
+	<string name="alert_snoozed_all" translatable="false">Alle Alarme \nschlummern</string>
+	<string name="alert_snoozed_low_and_high" translatable="false">Tief Hoch \nAlarme schlummern</string>
 	<string name="unit_days" translatable="false">Tage</string>
 	<string name="donation" translatable="false">Spende</string>
 	<string name="never" translatable="false">niemals</string>
@@ -249,21 +249,21 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="speak_custom_volume" translatable="false">Benutzerdefiniertes Volume</string>
 	<string name="trendnoncomputable">nicht berechenbar</string>
 	<string name="trenddoubledown">stark fallend</string>
-	<string name="trendsingledown">sehr stark fallend</string>
-	<string name="trendfortyfivedown">nieder</string>
+	<string name="trendsingledown">fallend</string>
+	<string name="trendfortyfivedown">sehr stark fallend</string>
 	<string name="trendflat">flach</string>
-	<string name="trendfortyfiveup">hoch</string>
-	<string name="trendsingleup">stark steigend</string>
-	<string name="trenddoubleup">sehr stark steigend</string>
+	<string name="trendfortyfiveup">sehr stark steigend</string>
+	<string name="trendsingleup">steigend</string>
+	<string name="trenddoubleup">stark steigend</string>
 	<string name="speech_setting" translatable="false">Spracheinstellung</string>
 	<string name="nfc_scan" translatable="false">Scanning…</string>
-	<string name="nfc_io_error" translatable="false">NFC IO Error…</string>
-	<string name="nfc_error" translatable="false">NFC Error</string>
-	<string name="nfc_timeout" translatable="false">NFC diag timeout</string>
-	<string name="nfc_mode" translatable="false">NFC Mode</string>
-	<string name="nfc_forget" translatable="false">das aktuelle Gerät vergessen?</string>
-	<string name="nfc_enable" translatable="false">NFC gleichzeitig aktivieren</string>
-	<string name="nfc_change_sensor" translatable="false">Soll der Sensor ausgetauscht werden?</string>
+	<string name="nfc_io_error" translatable="false">nfc IO Error…</string>
+	<string name="nfc_error" translatable="false">nfc Error</string>
+	<string name="nfc_timeout" translatable="false">nfc diag timeout</string>
+	<string name="nfc_mode" translatable="false">nfc Mode</string>
+	<string name="nfc_forget" translatable="false">das aktuelle Gerät entfernen?</string>
+	<string name="nfc_enable" translatable="false">nfc gleichzeitig aktivieren</string>
+	<string name="nfc_change_sensor" translatable="false">Soll der Sensor gewechselt werden?</string>
 	<string name="alert_vibrate" translatable="false">vibrieren</string>
 	<string name="alert_off" translatable="false">OFF</string>
 	<string name="alert_on" translatable="false">ON</string>
@@ -279,7 +279,7 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="sensor_restart_error" translatable="false">Neustart des Sensors fehlgeschlagen</string>
 	<string name="sensor_restart_success" translatable="false">Neustart des Sensors erfogreich</string>
 	<string name="sensor_restart_permanent" translatable="false">Wechseln Sie einen neuen Sensor</string>
-	<string name="sensor_restart_permanent_content" translatable="false">Ihr Sensor ist defekt und kann nicht neu gestartet werden. \n Wechseln Sie zu einem neuen Sensor!<string>
+	<string name="sensor_restart_permanent_content" translatable="false">Ihr Sensor ist defekt und kann nicht neu gestartet werden. \n wechseln Sie zu einem neuen Sensor!<string>
 	<string name="add_calibration" translatable="false">Kalibrierung hinzufügen</string>
 	<string name="add" translatable="false">hinzufügen</string>
 	<string name="sensor_reset_error" translatable="false">Sensor-Reset fehlgeschlagen</string>
@@ -559,7 +559,7 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 		<item>Kalorien</item>
 		<item>Lang wirksam</item>
 		<item>Gesamt Insulin</item>
-		<item>Kohlehydrate/Tag</item>
+		<item>Kohlenhydrate/Tag</item>
 		<item>Eiweiss/Tag</item>
 		<item>Kalorien/Tag</item>
 	</string-array>
