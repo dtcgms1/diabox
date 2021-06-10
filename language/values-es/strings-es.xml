@@ -91,7 +91,7 @@
     <string name="avg_glucose">Glucosa promedio</string>
     <string name="details_hardware_version">Versión de hardware</string>
     <string name="details_firmware_version">Versión de firmware</string>
-    <string name="details_macaddress">Direcciòn MAC</string>
+    <string name="details_macaddress">Dirección MAC</string>
     <string name="internal_ns">Credenciales Nightscout Share</string>
     <string name="nsurl_empty">La Url de Nightscout es nula</string>
     <string name="a_title">De acuerdo</string>
@@ -104,13 +104,13 @@
     <string name="low_alerts_disabled_until">"Alarmas bajas desactivadas hasta "</string>
     <string name="alert_sensor">Sensor</string>
     <string name="noty_drop_title">La glucosa está bajando</string>
-    <string name="http_server_integration">AndroidAPS, Pebble, Garmin, Nightguard(... )¡Integración!</string>
+    <string name="http_server_integration">Integración con AndroidAPS, Pebble, Garmin, Nightguard(... )</string>
     <string name="noty_missreading_content">Lectura incorrecta:</string>
     <string name="alert_snoozed_all">Todas las alarmas
 \nPospuestas</string>
     <string name="check_firmware">Comprobar</string>
     <string name="details_state">Estado de la conexión</string>
-    <string name="details_calibration_mode">Modo de calibracón</string>
+    <string name="details_calibration_mode">Modo de calibración</string>
     <string name="http_server">Servidor HTTP interno</string>
     <string name="workflow_shortcuts">Flujo de trabajo / Atajos</string>
     <string name="instructions">Instrucciones</string>
@@ -131,7 +131,7 @@
     <string name="about_name">versión</string>
     <string name="develop">Próximamente……</string>
     <string name="this_app_needs_battery_optimization_whitelisting_or_it_will_not_work_well_please_reset_app_preferences">Esta aplicación necesita una lista blanca de optimización de batería o no funcionará bien. Restablece las preferencias de la aplicación</string>
-    <string name="please_Allow_Permission">Por favor permita permiso</string>
+    <string name="please_Allow_Permission">Por favor conceda permiso</string>
     <string name="needs_battery_optimization_whitelisting_for_proper_performance">Esta aplicación necesita una lista blanca de optimización de batería o no funcionará bien.</string>
     <string name="bluetooth_error_not_supported">Error: Bluetooth no es compatible con este dispositivo</string>
     <string name="high">Alta</string>
