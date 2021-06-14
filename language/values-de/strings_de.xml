@@ -116,7 +116,7 @@
 	<string name="alert1">Ihr aktueller Sensor-Glukosespiegel ist</string>
 	<string name="alert2">Alarm ausschalten?</string>
 	<string name="alert_snoozed">Alarm schlummert</string>
-	<string name="alert_snoozed_title">Ihre Sensor Glucose ist %1$s\ n%2$s Der Alarm schlummert für %3$s</string>
+	<string name="alert_snoozed_title">Ihre Sensor Glucose ist %1$s\ %2$s Der Alarm schlummert für %3$s</string>
 	<string name="connected">verbunden</string>
 	<string name="disconnect">nicht verbunden</string>
 	<string name="a_title">einverstanden</string>
@@ -196,12 +196,12 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="alert_devices" translatable="false">Geräte</string>
 	<string name="alert_sensor" translatable="false">Sensor</string>
 	<string name="alert_disconnect" translatable="false">Signalverlust</string>
-	<string name="alert_low_battery" translatable="false">niedrige Batterie</string>
+	<string name="alert_low_battery" translatable="false">Batterie niedrig</string>
 	<string name="alert_low_battery_2" translatable="false">Batterie</string>
-	<string name="alert_sensor_life" translatable="false">Ende steht bevor</string>
-	<string name="alert_miss_reading" translatable="false">Lesefehler</string>
+	<string name="alert_sensor_life" translatable="false">Senso läuft ab in</string>
+	<string name="alert_miss_reading" translatable="false">Lesefehler nach</string>
 	<string name="alert_rise" translatable="false">Anstiegsrate</string>
-	<string name="alert_drop" translatable="false">Fallgeschwindigkeit</string>
+	<string name="alert_drop" translatable="false">Abfallrate</string>
 	<string name="alert_sound" translatable="false">Sound</string>
 	<string name="alert_snooze" translatable="false">schlummern</string>
 	<string name="alert_choose" translatable="false">wähle</string>
@@ -214,7 +214,7 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="noty_rise_content" translatable="false">Glucose steigt: </string>
 	<string name="noty_drop_title" translatable="false">Glucose fällt</string>
 	<string name="noty_drop_content" translatable="false">Glucose fällt: </string>
-	<string name="noty_battery_title" translatable="false">Battery niedrig</string>
+	<string name="noty_battery_title" translatable="false">Batterie niedrig</string>
 	<string name="noty_battery_content" translatable="false">Der Akkuladestand ist geringer als:</string>
 	<string name="noty_disconnect_title" translatable="false">nicht verbunden</string>
 	<string name="noty_disconnect_content" translatable="false">nicht verbunden:</string>
@@ -231,8 +231,8 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 
 	<string name="alert_high" translatable="false">Hoch</string>
 	<string name="alert_low" translatable="false">Tief</string>
-	<string name="alert_u_high" translatable="false">extrem Hoch</string>
-	<string name="alert_u_low" translatable="false">extrem Tief</string>
+	<string name="alert_u_high" translatable="false">sehr Hoch</string>
+	<string name="alert_u_low" translatable="false">sehr Tief</string>
 	<string name="alert_snoozed_all" translatable="false">Alle Alarme \nschlummern</string>
 	<string name="alert_snoozed_low_and_high" translatable="false">Tief Hoch \nAlarme schlummern</string>
 	<string name="unit_days" translatable="false">Tage</string>
@@ -245,8 +245,8 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="speak_use_glucose" translatable="false">Verwenden Sie Glukoseschwellen</string>
 	<string name="speak_high" translatable="false">Hohe Schwellenwerte</string>
 	<string name="speak_low" translatable="false">Tiefe Schwellenwerte</string>
-	<string name="speak_override" translatable="false">Systemvolumen überschreiben</string>
-	<string name="speak_custom_volume" translatable="false">Benutzerdefiniertes Volume</string>
+	<string name="speak_override" translatable="false">Systemlautstärke überschreiben</string>
+	<string name="speak_custom_volume" translatable="false">Benutzerdef.Lautstärke</string>
 	<string name="trendnoncomputable">nicht berechenbar</string>
 	<string name="trenddoubledown">stark fallend</string>
 	<string name="trendsingledown">fallend</string>
@@ -356,7 +356,7 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="unit_day1" translatable="false">d</string>
 	<string name="unit_hour1" translatable="false">h</string>
 	<string name="unit_minutes1" translatable="false">m</string>
-	<string name="all_alerts_disabled_until_reenable" translatable="false">Alle Warnungen sind deaktiviert, bis Sie sie erneut aktivieren</string>
+	<string name="all_alerts_disabled_until_reenable" translatable="false">Alle Alarme sind deaktiviert,\nbis Sie sie erneut aktivieren</string>
 	<string name="sensor_magic_code" translatable="false">Sensor Magic Code</string>
 	<string name="algorithm_magic_code" translatable="false">Algorithm Magic Code</string>
 	<string name="ntf_delta" translatable="false">Delta:</string>
@@ -408,7 +408,7 @@ Dieser Kalibrierungsalgorithmus implementiert die Logik basierend auf https://ww
 	<string name="calibration_rules" translatable="false">Kalibrierungsregeln</string>
 	<string name="invalid_qr_code" translatable="false">Ungültiger QR-Code</string>
 	<string name="copy_success" translatable="false">Kopieren erfolgreich</string>
-	<string name="reading_min" translatable="false">Aktualisieren Sie den Messwert in Intervallen von 1 Minute</string>
+	<string name="reading_min" translatable="false">Aktualisieren Sie den Messwert in \nIntervallen von 1 Minute</string>
 	<string name="recommended_ns_service" translatable="false">Empfohlener NS-Dienstanbieter</string>
 	<string name="add_ns" translatable="false">Nightscout hinzufügen</string>
 
