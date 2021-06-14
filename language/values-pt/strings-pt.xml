@@ -377,42 +377,42 @@
 \n        ,verifique o sensor com o Leitor ou app Librelink"</string>
 
     <!--2021-03-23-->
-    <string name="import_db" translatable="false">Import/Export</string>
-    <string name="import_tilte" translatable="false">Import</string>
-    <string name="import_content" translatable="false">Import this data</string>
-    <string name="version_details" translatable="false">Version details</string>
-    <string name="download_now" translatable="false">Download Now</string>
-    <string name="downloaded" translatable="false">Downloaded</string>
-    <string name="failed" translatable="false">Failed</string>
-    <string name="update_is_in_your_downloads_folder" translatable="false">Update is in your downloads folder</string>
-    <string name="file_appears_corrupt" translatable="false">File appears corrupt!</string>
-    <string name="download_timeout" translatable="false">Download timeout!</string>
-    <string name="internal_problems" translatable="false">Internal problems - trying with android system</string>
-    <string name="data_error" translatable="false">Data error: </string>
-    <string name="need_permission_download" translatable="false">Need permission to download file</string>
-    <string name="already_downloading" translatable="false">Already downloading!</string>
-    <string name="attempting_background_download" translatable="false">Attempting background download...</string>
-    <string name="latest_version" translatable="false">This is the latest version</string>
-    <string name="a_new_version_is_available" translatable="false">A new version is available</string>
-    <string name="glucose_oop_min" translatable="false">Sensor Low Threshold Constraint</string>
-    <string name="glucose_oop_max" translatable="false">Sensor High Threshold Constraint</string>
-    <string name="calibration_time" translatable="false">BG Calibration Data Point Expired</string>
-    <string name="libre2_disconnected" translatable="false">Cannot Calibrate for Libre2 Disconnected with DialBox more than 5 mins</string>
-    <string name="unit_Day" translatable="false">Day</string>
-    <string name="master" translatable="false">Master</string>
-    <string name="follower" translatable="false">Follower Invitation</string>
-    <string name="sign_in" translatable="false">Sign In</string>
-    <string name="diabox_follow" translatable="false">DiaBox Follow</string>
-    <string name="diabox_follower_name" translatable="false">Followed:%1$s</string>
-    <string name="add_follower_success" translatable="false">You had followed:%1$s</string>
-    <string name="follower_delete" translatable="false">Delete follower</string>
-    <string name="follower_management" translatable="false">Follower Management</string>
-    <string name="follower_token_timeout" translatable="false">Token Expired, Pls Request a new Follow QR</string>
-    <string name="share_log" translatable="false">Share log</string>
-    <string name="userprofile" translatable="false">UserProfile</string>
-    <string name="userprofile_name" translatable="false">NickName</string>
-    <string name="userprofile_photo" translatable="false">Photo</string>
-    <string name="sensor_activation_success_wait" translatable="false">Sensor is activated,it will be ready at:%1$s</string>
-    <string name="log_out_content" translatable="false">LogOut You need to log in again</string>
-    <string name="check_firmware_new_version" translatable="false">Check New Firmware Version</string>
+    <string name="import_db" translatable="false">Impportar/Exportar</string>
+    <string name="import_tilte" translatable="false">Importar</string>
+    <string name="import_content" translatable="false">Importar estes dados</string>
+    <string name="version_details" translatable="false">Detalhes da Versão</string>
+    <string name="download_now" translatable="false">Descarregar Agora</string>
+    <string name="downloaded" translatable="false">Descarregado</string>
+    <string name="failed" translatable="false">Falhou</string>
+    <string name="update_is_in_your_downloads_folder" translatable="false">Actualização encontra-se na pasta Downloads</string>
+    <string name="file_appears_corrupt" translatable="false">Ficheiro corrompido!</string>
+    <string name="download_timeout" translatable="false">Tempo experiou para descarregamento!</string>
+    <string name="internal_problems" translatable="false">Problemas internos - a tentar com sistema Android</string>
+    <string name="data_error" translatable="false">Dados de Erro: </string>
+    <string name="need_permission_download" translatable="false">Requer permissão para descarregar o ficheiro</string>
+    <string name="already_downloading" translatable="false">Já a descarregar!</string>
+    <string name="attempting_background_download" translatable="false">A tentar descarregar em plano de fundo...</string>
+    <string name="latest_version" translatable="false">Esta é a última versão</string>
+    <string name="a_new_version_is_available" translatable="false">Está disponível uma nova versão</string>
+    <string name="glucose_oop_min" translatable="false">Limiar de Restrição de Hipo no Sensor</string>
+    <string name="glucose_oop_max" translatable="false">Limiar de Restrição de Hiper no Sensor</string>
+    <string name="calibration_time" translatable="false">Ponto de Dados de Calibração Glicemia Expirou</string>
+    <string name="libre2_disconnected" translatable="false">Não consegue Calibrar Libre2 Desconectado com a Diabox há mais de 5 minutos</string>
+    <string name="unit_Day" translatable="false">Dia</string>
+    <string name="master" translatable="false">Mestre</string>
+    <string name="follower" translatable="false">Convite Seguidor</string>
+    <string name="sign_in" translatable="false">Inicie a Sessão</string>
+    <string name="diabox_follow" translatable="false">Seguidor Diabox</string>
+    <string name="diabox_follower_name" translatable="false">Seguido:%1$s</string>
+    <string name="add_follower_success" translatable="false">Está a seguir:%1$s</string>
+    <string name="follower_delete" translatable="false">Eliminar Seguidor</string>
+    <string name="follower_management" translatable="false">Gestão de Seguidor</string>
+    <string name="follower_token_timeout" translatable="false">Token Expirou, Requira novo Código QR Seguidor</string>
+    <string name="share_log" translatable="false">Partilhe Registo</string>
+    <string name="userprofile" translatable="false">PerfilUtilizador</string>
+    <string name="userprofile_name" translatable="false">Alcunha</string>
+    <string name="userprofile_photo" translatable="false">Foto</string>
+    <string name="sensor_activation_success_wait" translatable="false">Sensor está activado, estará pronto em:%1$s</string>
+    <string name="log_out_content" translatable="false">Terminar Sessão. Terá que Iniciar Sessão novamente</string>
+    <string name="check_firmware_new_version" translatable="false">Verificar nova versão do Firmware</string>
 </resources>
