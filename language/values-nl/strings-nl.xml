@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cgm_abott">Freestyle Libre</string>
+    <string name="home_device_name">Bubble</string>
+    <string name="cgm_dexcom">Dexcom</string>
+    <string name="home_device">Status apparaat</string>
+    <string name="app_name">DiaBox</string>
+    <string name="brand_title">Selecteer merk</string>
+    <string name="cgm_scan_title">Scan apparaat</string>
+    <string name="cgm_other">Overige apparaten</string>
+    <string name="cgm_roche">Roche Diagnostics</string>
+    <string name="cgm_medtronic">Medtronic</string>
+    <string name="cgm_echo">Echo Therapeutiss</string>
+    <string name="btn_ok">Ok</string>
+    <string name="dexcom_title">Dexcom</string>
+    <string name="carbs_g">Koolhydraten</string>
+    <string name="add_note">Notitie toevoegen</string>
+    <string name="minutes">Minuten</string>
+    <string name="cals">Calorieën</string>
+    <string name="fiber">Vezels</string>
+    <string name="sugar">Suiker</string>
+    <string name="fat">Vet</string>
+    <string name="protein">Proteïne</string>
+    <string name="save">Opslaan</string>
+    <string name="note">Notitie</string>
+    <string name="medication">Medicatie</string>
+    <string name="reading">Lezen</string>
+    <string name="exercise">Lichaamsbeweging</string>
+    <string name="insulin">Insuline</string>
+    <string name="food">Voedsel</string>
+    <string name="scan_tips">Apparaat niet gevonden. Zorg er voor dat de Bubble volledig is opgeladen en houdt deze zo dicht mogelijk bij je telefoon</string>
+    <string name="cgm_scanning">Aan het scannen…</string>
+    <string name="add_cgm">Sensor toevoegen</string>
+    <string name="cgm_scan">Scan</string>
+    <string name="alert_u_low">Extreem laag</string>
+    <string name="alert_u_high">Extreem hoog</string>
+    <string name="alert_low">Laag</string>
+    <string name="alert_high">Hoog</string>
+    <string name="password">Wachtwoord</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="range_info_title">Tijd binnen bereik</string>
+    <string name="hour4">24 uur</string>
+    <string name="hour3">12 uur</string>
+    <string name="day5">60 dagen</string>
+    <string name="mmol">mmol/L</string>
+    <string name="hour2">6 uur</string>
+    <string name="hour1">3 uur</string>
+    <string name="day4">30 dagen</string>
+    <string name="day3">14 dagen</string>
+    <string name="day2">7 dagen</string>
+    <string name="day1">1 dag</string>
+    <string name="workflow_shortcuts">Workflow/Shortcuts</string>
+    <string name="sensor_error">Sensor fout</string>
+    <string name="alert_sensor">Sensor</string>
+    <string name="noty_battery_content">Batterijniveau is minder dan:</string>
+    <string name="details_sn">Serienummer</string>
+    <string name="http_server">Interne HTTP-server</string>
+    <string name="below_title">Onder</string>
+    <string name="alert_glucose">Glucose</string>
+    <string name="min">min</string>
+    <string name="login_success">Inloggen gelukt</string>
+    <string name="alert_content">Glucose waarde volgens sensor is</string>
+    <string name="high">Hoog</string>
+    <string name="details_macaddress">MacAddress</string>
+    <string name="http_server_integration">AndroidAPS, Pebble, Garmin, Nightguard... Integratie!</string>
+    <string name="nightscout_share_server">Nightscout Share Server Upload</string>
+    <string name="h6">6u</string>
+    <string name="alert_snoozed_title">Glucosewaarde volgens sensor is %1$s</string>
+    <string name="choose_local">Lokaal</string>
+    <string name="connected">Verbonden</string>
+    <string name="alert_sensor_life">Eindigt voor</string>
+    <string name="low_alerts_disabled_until">"Alarm voor laag uitgeschakeld tot "</string>
+    <string name="alert">Waarschuwing</string>
+    <string name="alert_devices">Apparaat</string>
+    <string name="alert2">Wilt u het alarm vertragen\?</string>
+    <string name="h12">12u</string>
+    <string name="login">Inloggen</string>
+    <string name="sensor_not_started">Niet gestart</string>
+    <string name="h3">3u</string>
+    <string name="about_name">versie</string>
+    <string name="mgdl">mg/dL</string>
+    <string name="bubble_request_new">Glucosewaarde nu uitlezen\?</string>
+    <string name="start_upgrade">Start bijwerken</string>
+    <string name="home_track">Mijn metingen</string>
+    <string name="sensor_ended">Geëindigd</string>
+    <string name="disconnect">Verbinding verbreken</string>
+    <string name="disable_all_alerts">Zet alle alarmen uit</string>
+    <string name="snooze">Sluimer</string>
+    <string name="connection">Test verbinding</string>
+    <string name="average_title">Gemiddeld</string>
+    <string name="details_sensor_age">Actief sinds</string>
+    <string name="units">Eenheden</string>
+    <string name="bluetooth_error_not_supported">Fout: dit apparaat ondersteunt geen Bluetooth</string>
+    <string name="needs_battery_optimization_whitelisting_for_proper_performance">Deze app vereist \'battery optimization whitelisting \' anders werkt deze niet correct.</string>
+    <string name="a_content">DiaBox kan niet worden gebruikt voor medische beslissingen; maar is slechts bedoeld ter ondersteuning en educatie. Deze app wordt beschikbaar gesteld zonder enig recht op garantie of aansprakelijkheid. U dient zelf te beoordelen of DiaBox werkt voor uw persoonlijke omstandigheden. Bij niet correct functioneren er van bent u zelf aansprakelijk voor de gevolgen.</string>
+    <string name="dexcom_number">ID van zender</string>
+    <string name="device_no">Geen apparaat</string>
+    <string name="dexcom_num">Calibratie</string>
+    <string name="noty_disconnect_content">Verbinding verbroken:</string>
+    <string name="noty_rise_content">Glucose stijgt:</string>
+    <string name="noty_disconnect_title">Verbinding verbroken</string>
+    <string name="sensor_not_broken">Permanente fout</string>
+    <string name="noty_drop_title">Glucose daalt</string>
+    <string name="sensor_not_running">Niet gestart</string>
+    <string name="forget_device">Vergeet apparaat</string>
+    <string name="alert_time">Tijd</string>
+    <string name="alert_snooze">Sluimer</string>
+    <string name="noty_missreading_title">Leesfout</string>
+    <string name="noty_sensorlife_title">Levensduur sensor</string>
+    <string name="alert_more">Meer alarmen</string>
+    <string name="wear_connect">Verbind met Wear</string>
+    <string name="alert_drop">Tempo van dalen</string>
+    <string name="unit_day">dag</string>
+    <string name="alert_choose">Kies</string>
+    <string name="noty_battery_title">Batterijniveau is laag</string>
+    <string name="noty_sensorlife_content">Levensduur sensor:</string>
+    <string name="alert_sound">Geluid</string>
+    <string name="noty_missreading_content">Leesfout:</string>
+    <string name="noty_drop_content">Glucose daalt:</string>
+    <string name="choose_default">Standaard</string>
+    <string name="choose_custom">Aangepast</string>
+    <string name="noty_rise_title">Glucose stijgt</string>
+    <string name="alert1">Uw huidige glucosewaarde volgens de sensor is</string>
+    <string name="alert_snoozed_all">Alle alarmen
+\ngesluimerd</string>
+    <string name="login_out">Log uit</string>
+    <string name="disable_low_alerts">Zet alarm voor laag uit</string>
+    <string name="nskey_empty">Nightscout API Key is blanco</string>
+    <string name="server">Server</string>
+    <string name="check_firmware">Controleer</string>
+    <string name="url">Url</string>
+    <string name="a_title">Gebruikersovereenkomst</string>
+    <string name="about">Over deze app</string>
+    <string name="re_enable_high_alerts">Zet alarm voor hoog weer aan</string>
+    <string name="connected_success">Verbinding geslaagd</string>
+    <string name="range_content">Percentage van de metingen vandaag binnen het ingestelde normale bereik ( %1$s ).</string>
+    <string name="upgrade">Bijwerken</string>
+    <string name="target">Streefwaarde</string>
+    <string name="details_battery">Niveau batterij</string>
+    <string name="dexpwd_empty">DexShare wachtwoord is blanco</string>
+    <string name="details_state">Verbindingsstatus</string>
+    <string name="instructions">Instructies</string>
+    <string name="below_content">Percentage van de metingen vandaag beneden het ingestelde normale bereik ( %1$s ).</string>
+    <string name="ifcc">IFCC</string>
+    <string name="alert_miss_reading">Leesfout</string>
+    <string name="hour">Uren</string>
+    <string name="sensor_starting">Aan het opstarten</string>
+    <string name="alert_snoozed_low_and_high">Alarm voor hoog
+\nIn sluimermode</string>
+    <string name="bubble_request_new_title">Tips</string>
+    <string name="speech_alerts">Zet spraak uit</string>
+    <string name="algorithm_title">Algoritme</string>
+    <string name="re_enable_low_alerts">Zet alarm voor laag weer aan</string>
+    <string name="sensor_expired">Verlopen</string>
+    <string name="h24">24u</string>
+    <string name="above_content">Percentage van de metingen vandaag beneden het ingestelde normale bereik ( %1$s ).</string>
+    <string name="upgrade_content">Er is nieuwe firmware beschikbaar. Graag opwaarderen voor betere prestaties</string>
+    <string name="average_content">De gemiddelde waarde van vandaag.</string>
+    <string name="details_start_time">Gestart op</string>
+    <string name="sensor_no">Geen sensor</string>
+    <string name="calibration_title">Calibratie</string>
+    <string name="mmol_mol">(mmol/mol)</string>
+    <string name="sensor_activation_content">Activeer sensor</string>
+    <string name="settings">Instellingen</string>
+    <string name="alert_rise">Tempo van stijgen</string>
+    <string name="integration">Koppelingen</string>
+    <string name="low">Laag</string>
+    <string name="all_alerts_disabled_until">"Alle alarmen uitgeschakeld tot "</string>
+    <string name="sensor_activation">Activeer</string>
+    <string name="gauges_title">Toevoegen indicatoren</string>
+    <string name="usaccount">Amerikaans account</string>
+    <string name="extreme_high">Extreem hoog</string>
+    <string name="above_title">Boven</string>
+    <string name="details_sensor_status">Sensor status</string>
+    <string name="high_alerts_disabled_until">"Alarm voor hoog uitgeschakeld tot "</string>
+    <string name="alert_low_battery">Batterij laag</string>
+    <string name="please_Allow_Permission">Verleen toestemming</string>
+    <string name="iftt">IFTT</string>
+    <string name="details_title">Details</string>
+    <string name="range_title">Tijd binnen bereik</string>
+    <string name="h1">1u</string>
+    <string name="alert_disconnect">Verbinding verbroken</string>
+    <string name="nsurl_empty">Nightscout Url is blanco</string>
+    <string name="Dexcom_Share">inloggegevens Dexcom Share</string>
+    <string name="display_high">Hoogte grafiek</string>
+    <string name="re_enable_all_alerts">Zet alle alarmen weer aan</string>
+    <string name="details_hardware_version">Hardware versie</string>
+    <string name="normal_range">Normaal bereik</string>
+    <string name="about_version">Versie</string>
+    <string name="setting">Instellingen</string>
+    <string name="disable_high_alerts">Zet alarm voor hoog uit</string>
+    <string name="this_app_needs_battery_optimization_whitelisting_or_it_will_not_work_well_please_reset_app_preferences">Deze app vereist \'battery optimization whitelisting\' voor correcte werking. Herstel de app-instellingen binnen Android.</string>
+    <string name="time_format">Tijdweergave</string>
+    <string name="urgent_low">Urgent laag</string>
+    <string name="g">g</string>
+    <string name="cgm">i-CGM</string>
+    <string name="A1C">eA1C(NGSP%)</string>
+    <string name="alert_low_battery_2">Batterij</string>
+    <string name="language">Taal</string>
+    <string name="alert_snoozed_title2">Alarm activeren\?</string>
+    <string name="details_calibration_mode">Calibratiemodus</string>
+    <string name="details_name">Type</string>
+    <string name="start_new_sensor">Start nieuwe sensor</string>
+    <string name="range_unit">Bereik en eenheden</string>
+    <string name="sensor_ready">Gereed</string>
+    <string name="dexcom_share_server">Dexcom Share Server Upload</string>
+    <string name="develop">Binnenkort…</string>
+    <string name="sensor_failed">Mislukt</string>
+    <string name="service">Service</string>
+    <string name="internal_ns">Nightscout Share inloggegevens</string>
+    <string name="details_firmware_version">Firmware versie</string>
+    <string name="avg_glucose">Gemiddelde glucose</string>
+    <string name="dexname_empty">DexShare naam is blanco</string>
+    <string name="readings">Metingen</string>
+    <string name="ea1c">eA1C</string>
+    <string name="alert_snoozed">Alarm gesluimerd</string>
+    <string name="btn_cancel">Annuleer</string>
+    <string name="key">Sleutel</string>
+    <string name="a_understand">Ik begrijp dit en ga er mee akkoord</string>
+    <string name="sleep_hours">Uren nachtrust</string>
+    <string name="loop_offline">Fungeer als CGM databron voor APS</string>
+    <string name="calibration_content">Let op! Bij de keuze voor LSR Calibratie wordt de sensorwaarde voor de glucose berekend via een ander algoritme. De berekende waarde zal dan afwijken van de officiële ontvanger/reader. De verantwoordelijkheid om met deze mogelijke verschillen om te gaan ligt bij u zelf! Deze manier van calibratie gebruikt een methode die gebaseerd is op https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764224</string>
+    <string name="follower_mode">Volgmodus</string>
+    <string name="pills">tabletten</string>
+    <string name="i_algorithm">i-Algoritme</string>
+    <string name="range_info">De laatste tijdsduur dat de metingen binnen het ingestelde streefbereik vielen ( 4.4 mmol/L- 6.7 mmol/L )
+\n
+\nWas je het afgelopen uur binnen streefbereik, maar is de volgende meting buiten streefbereik, dan zal de \'tijd binnen bereik\' op 0 gezet worden.</string>
+    <string name="data_collection">Data verzamelen</string>
+    <string name="cal">Cal</string>
+    <string name="donation">Donatie</string>
+    <string name="never">Nooit</string>
+    <string name="speak_bg_reading">Lees meetwaarde voor</string>
+    <string name="speak_bg_trend">Lees glucosetrend voor</string>
+    <string name="speak_bg_delta">Lees glucosedelta voor</string>
+    <string name="speak_interval">Interval</string>
+    <string name="speak_use_glucose">Gebruik glucose drempelwaarden</string>
+    <string name="speak_high">Hoge drempelwaarde</string>
+    <string name="speak_low">Lage drempelwaarde</string>
+    <string name="speak_override">Negeer systeemvolume</string>
+    <string name="speak_custom_volume">Aangepast volume</string>
+    <string name="trendnoncomputable">Niet te berekenen</string>
+    <string name="trenddoubledown">Zeer snel dalend</string>
+    <string name="trendsingledown">Snel dalend</string>
+    <string name="trendfortyfivedown">Dalend</string>
+    <string name="trendflat">Constant</string>
+    <string name="trenddoubleup">Zeer snel stijgend</string>
+    <string name="trendfortyfiveup">Stijgend</string>
+    <string name="trendsingleup">Snel stijgend</string>
+    <string name="unit_days">dagen</string>
+    <string name="add_calibration">Voeg kalibratie toe</string>
+    <string name="nfc_scan">Aan het scannen.…</string>
+    <string name="nfc_error">NFC Fout</string>
+    <string name="nfc_mode">NFC Modus</string>
+    <string name="sensor_mode_restart">Opnieuw starten</string>
+    <string name="nfc_change_sensor">Wilt u een andere sensor plaatsen\?</string>
+    <string name="alert_off">UIT</string>
+    <string name="share_data">Deel data met smartwatches</string>
+    <string name="share_data_content">Pebble, Garmin, Nightguard... Integratie!</string>
+    <string name="invalid_code">Ongeldige code</string>
+    <string name="sensor_mode">Sensormodus</string>
+    <string name="nfc_timeout">NFC diag timeout</string>
+    <string name="nfc_forget">Huidig apparaat vergeten\?</string>
+    <string name="smooth_item">Afvlakken</string>
+    <string name="nfc_enable">Activeer NFC gelijktijdig</string>
+    <string name="alert_vibrate">Trillen</string>
+    <string name="alert_on">Aan</string>
+    <string name="sensor_restart">Libre1-sensor opnieuw starten\?</string>
+    <string name="sensor_restart_content">Deze optie is hoogst experimenteel en kan uw sensor permanent onbruikbaar maken. Er is geen garantie voor accuraatheid, gebruik het daarom NIET om medische beslissingen te nemen. Alle consequenties zijn voor eigen risico.</string>
+    <string name="sensor_restart_error">Opnieuw starten sensor mislukt</string>
+    <string name="sensor_restart_permanent_content">Uw sensor is defect en kan niet opnieuw worden gestart.\\nPlaats een nieuwe sensor!</string>
+    <string name="sensor_reset_error">Resetten sensor mislukt</string>
+    <string name="sensor_reset_success">Resetten sensor is gelukt</string>
+    <string name="sensor_restart_success">Opnieuw starten sensor is gelukt</string>
+    <string name="sensor_restart_permanent">Plaats een nieuwe sensor</string>
+    <string name="speech_setting">Spraakinstelling</string>
+    <string name="sensor_please_wait">Even geduld a.u.b.</string>
+    <string name="alert_disable_title">Wilt u het %1$s alarm uitzetten\?</string>
+    <string name="alert_disable_content">U mist alle %1$s alarmen \\ntotdat u het geluid of trillen weer aan zet</string>
+    <string name="sensor_reset">Libre1 sensor resetten\?</string>
+    <string name="sensor_mode_reset">Reset</string>
+    <string name="algorithm_item">Algoritme</string>
+    <string name="nfc_io_error">NFC IO Fout…</string>
+    <string name="sensor_reset_content">Deze optie is hoogst experimenteel en kan uw sensor permanent onbruikbaar maken. Er is geen garantie voor accuraatheid, gebruik het daarom NIET om medische beslissingen te nemen. Alle consequenties zijn voor eigen risico.</string>
+    <string name="add">Toevoegen</string>
+    <string name="kalman">Kalman</string>
+    <string name="alert_off_tips">" Waarschuwing uit"</string>
+    <string name="savitzky_golay">Savitzky-Golay</string>
+    <string name="sensor_activate_error">Activeren sensor is mislukt</string>
+    <string name="sensor_activate_success">Activeren sensor is gelukt</string>
+    <string name="bluetooth_off">Bluetooth staat UIT</string>
+    <string name="bluetooth_off_content">Zet Bluetooth aan zodat Diabox uw waarden kan uitlezen.</string>
+    <string name="donors">Dank aan iedereen die gedoneerd heeft! Namen in willekeurige volgorde:</string>
+    <string name="add_cgm_bubble">Activeer Bubble</string>
+    <string name="master_magic_code">Master code</string>
+    <string name="calibration_time_check">Na de eerste geldige kalibratiewaarde dient er minimaal 15 minuten gewacht te worden voor het volgende kalibratiemoment</string>
+    <string name="cal_time_2h">Kalibratiemoment dient minimaal 2 uur na een succesvol kalibratiemoment te liggen.</string>
+    <string name="sensor_unsupported">Sensor wordt niet ondersteund</string>
+    <string name="rad_h5">3M</string>
+    <string name="algorithm_magic_code">Algoritme Magische Code</string>
+    <string name="recommended_ns_service">Aanbevolen NS aanbieder</string>
+    <string name="reading_min">Verander leesinterval in 1 minuut</string>
+    <string name="days_14">14 dagen</string>
+    <string name="share_gwatch_data">Deel data met GWatch</string>
+    <string name="calibration_confirm">Bevestig uw glucosewaarde</string>
+    <string name="share_gwatch_data_content">GWatch integratie!</string>
+    <string name="thresholds">Drempelwaarden</string>
+    <string name="A1C_key">A1C</string>
+    <string name="watch">Horloge</string>
+    <string name="watlaa">Watlaa</string>
+    <string name="bubble_fw_update">Update de Bubble naar de laatste firmware voor ondersteuning van Libre2/Pro/US14d</string>
+    <string name="get_new_glucose">Lees nieuwe sensorwaarde...</string>
+    <string name="enter_first_bg_value">Voer de eerste glucosewaarde in</string>
+    <string name="rad_h1">1d</string>
+    <string name="rad_h2">7d</string>
+    <string name="enter_second_bg_value">Voer de tweede glucosewaarde in</string>
+    <string name="rad_h3">14d</string>
+    <string name="calibration_glucose_30min">"Sensorwaarde is te vlak om te kunnen kalibreren,
+\n        controleer uw sensor met Librelink of de Reader"</string>
+    <string name="rad_h4">1M</string>
+    <string name="calibration_glucose_18min">"U moet minimaal 3 glucosewaarden binnen 18 minuten hebben,
+\n        controleer uw sensor met Librelink of de Reader"</string>
+    <string name="calibration_delete_all">Verwijder alle kalibratiegegevens\?</string>
+    <string name="calibration_mode_factory">Fabrieksinstelling</string>
+    <string name="calibration_mode_calibration">Kalibratiemodus</string>
+    <string name="nightscout">Nightscout</string>
+    <string name="delete_key">Verwijder</string>
+    <string name="reset_calibration">Reset kalibratie</string>
+    <string name="delete_all_key">Verwijder alles</string>
+    <string name="calibration_rules">kalibratieregels</string>
+    <string name="invalid_qr_code">Ongeldige QR-code</string>
+    <string name="enter_blood_glucose_value">Voer glucosewaarde in</string>
+    <string name="details_maxsensorlife">Maximale levensduur sensor</string>
+    <string name="copy_success">Kopiëren gelukt</string>
+    <string name="unit_day1">d</string>
+    <string name="unit_hour1">u</string>
+    <string name="calibration_graph_no_calibration">Kalibratiegrafiek (geen calibratie)</string>
+    <string name="unit_minutes1">m</string>
+    <string name="calibration_plugin_header">calibration plugin header</string>
+    <string name="all_alerts_disabled_until_reenable">Alle alarmen zijn uitgeschakeld tot aan reactivatie</string>
+    <string name="add_ns">Voeg Nightscout toe</string>
+    <string name="calibration_out_of_range">"Kalibratie werkt alleen tussen waardes  %1$s--%2$s %3$s
+\n     Kalibreer a.u.b. wanneer uw waarden binnen dit bereik zijn."</string>
+    <string name="day_1">1 dag</string>
+    <string name="sensor_magic_code">Sensor Magische Code</string>
+    <string name="override_calibration">Negeer kalibratie</string>
+    <string name="days_7">7 dagen</string>
+    <string name="ntf_delta">Delta:</string>
+    <string name="calibration_can_not_be_blank">Kalibratie mag niet blanco zijn</string>
+    <string name="month_1">1 maand</string>
+    <string name="calibration_sensor_status">"Kalibratioe is niet beschikbaar als de sensor  %1$s is
+\n        controleer uw sensor met Librelink of de reader"</string>
+    <string name="nfc_scan_title">Klaar om te scannen</string>
+    <string name="months_3">3 maanden</string>
+    <string name="automatic_bluetooth">Forceer Bluetooth herstart</string>
+    <string name="nfc_scan_error">NFC scanfout</string>
+    <string name="nfc_scan_success">NFC scan gelukt</string>
+    <string name="LibreView_Share">LibreView inloggegevens</string>
+    <string name="calibration_delete">verwijder deze kalibratiegegevens\?</string>
+    <string name="libreviewemail_empty">Email is leeg</string>
+    <string name="toast_graph_height">De hoogte van de grafiek dient minimaal gelijk aan uw hoog/zeer hoog waarde te zijn</string>
+    <string name="libreviewpwd_empty">Password is leeg</string>
+    <string name="calibrationt_available">Dit is geen geschikt moment voor kalibratie, probeer het over 30 minuten</string>
+    <string name="libreview_logout2">Het lijkt er op dat de verbinding met LibreView is verbroken, log opnieuw in via DiaBox</string>
+    <string name="nfc_tap">Scan NFC-tags a.u.b.</string>
+    <string name="sensor_time_left">Restant</string>
+    <string name="nfc_libre2_check">Libre2 BT directe connectie</string>
+    <string name="nfc_off">NFC uit</string>
+    <string name="nfc_scan_timeout">NFC Scan timeout</string>
+    <string name="sensor_status_check">Sensorstatus controle</string>
+    <string name="libreview_server">LibreView Upload</string>
+    <string name="glucose_range_check">Glucosebereik controle</string>
+    <string name="email">Email</string>
+    <string name="libreview_logout">"LibreView  uitgelogd"</string>
+    <string name="change_rate_check">Verandering van glucose ratio</string>
+    <string name="nfc_change_ble_connect">Uw Bubble verbreekt de verbinding bij Libre2 BLE directe modus</string>
+    <string name="difference_glucose_check">Verschil tussen sensorwaarde en vingerprik controle</string>
+    <!--2021-03-23-->
+    <string name="import_db" translatable="false">Import/Export</string>
+    <string name="import_tilte" translatable="false">Import</string>
+    <string name="import_content" translatable="false">Import this data</string>
+    <string name="version_details" translatable="false">Version details</string>
+    <string name="download_now" translatable="false">Download Now</string>
+    <string name="downloaded" translatable="false">Downloaded</string>
+    <string name="failed" translatable="false">Failed</string>
+    <string name="update_is_in_your_downloads_folder" translatable="false">Update is in your downloads folder</string>
+    <string name="file_appears_corrupt" translatable="false">File appears corrupt!</string>
+    <string name="download_timeout" translatable="false">Download timeout!</string>
+    <string name="internal_problems" translatable="false">Internal problems - trying with android system</string>
+    <string name="data_error" translatable="false">Data error: </string>
+    <string name="need_permission_download" translatable="false">Need permission to download file</string>
+    <string name="already_downloading" translatable="false">Already downloading!</string>
+    <string name="attempting_background_download" translatable="false">Attempting background download...</string>
+    <string name="latest_version" translatable="false">This is the latest version</string>
+    <string name="a_new_version_is_available" translatable="false">A new version is available</string>
+    <string name="glucose_oop_min" translatable="false">Sensor Low Threshold Constraint</string>
+    <string name="glucose_oop_max" translatable="false">Sensor High Threshold Constraint</string>
+    <string name="calibration_time" translatable="false">BG Calibration Data Point Expired</string>
+    <string name="libre2_disconnected" translatable="false">Cannot Calibrate for Libre2 Disconnected with DialBox more than 5 mins</string>
+    <string name="unit_Day" translatable="false">Day</string>
+    <string name="master" translatable="false">Master</string>
+    <string name="follower" translatable="false">Follower Invitation</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="diabox_follow" translatable="false">DiaBox Follow</string>
+    <string name="diabox_follower_name" translatable="false">Followed:%1$s</string>
+    <string name="add_follower_success" translatable="false">You had followed:%1$s</string>
+    <string name="follower_delete" translatable="false">Delete follower</string>
+    <string name="follower_management" translatable="false">Follower Management</string>
+    <string name="follower_token_timeout" translatable="false">Token Expired, Pls Request a new Follow QR</string>
+    <string name="share_log" translatable="false">Share log</string>
+    <string name="userprofile" translatable="false">UserProfile</string>
+    <string name="userprofile_name" translatable="false">NickName</string>
+    <string name="userprofile_photo" translatable="false">Photo</string>
+    <string name="sensor_activation_success_wait" translatable="false">Sensor is activated,it will be ready at:%1$s</string>
+    <string name="log_out_content" translatable="false">LogOut You need to log in again</string>
+    <string name="check_firmware_new_version" translatable="false">Check New Firmware Version</string>
+</resources>

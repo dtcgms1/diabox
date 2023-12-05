@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="details_sensor_age">Idade Sensor</string>
+    <string name="alert1">Nível actual da Glicose no sensor é</string>
+    <string name="low">Hipo</string>
+    <string name="bluetooth_error_not_supported">Erro: Bluetooth não suportado por este dispositivo</string>
+    <string name="above_title">Acima</string>
+    <string name="sensor_activation_content">Activar sensor</string>
+    <string name="nightscout_share_server">Envio Servidor Nightscout Share</string>
+    <string name="alert_disconnect">Sinal Perdido</string>
+    <string name="alert_choose">Escolher</string>
+    <string name="alert_more">Mais Alertas</string>
+    <string name="alert_rise">Aumentar Taxa</string>
+    <string name="bubble_request_new">Obter Nova Leitura de Glicose\?</string>
+    <string name="re_enable_all_alerts">Re-Activar Todos Alertas</string>
+    <string name="alert_low_battery_2">Bateria</string>
+    <string name="noty_rise_content">Glicose a Subir:</string>
+    <string name="noty_disconnect_title">Desligado</string>
+    <string name="noty_battery_title">Bateria Fraca</string>
+    <string name="alert_u_high">Muito Alto</string>
+    <string name="alert_snoozed_low_and_high">Hipo Hiper
+\nAlerta Silenciado</string>
+    <string name="alert_u_low">Muito Baixo</string>
+    <string name="btn_ok">Ok</string>
+    <string name="choose_custom">Personalizar</string>
+    <string name="sugar">açúcar</string>
+    <string name="device_no">Sem Dispositivos</string>
+    <string name="minutes">minutos</string>
+    <string name="units">Unidades</string>
+    <string name="disable_low_alerts">Desactivar Alertas Hipo</string>
+    <string name="upgrade_content">Um novo FirmWare está disponível, actualize-o para um melhor funcionamento</string>
+    <string name="username">Utilizador</string>
+    <string name="low_alerts_disabled_until">"Alertas Hipo desactivados até "</string>
+    <string name="target">Alvo</string>
+    <string name="details_start_time">Hora Início</string>
+    <string name="speech_alerts">Desactivar Fala</string>
+    <string name="i_algorithm">i-Algorithm</string>
+    <string name="sensor_starting">A Iniciar</string>
+    <string name="alert_sensor">Sensor</string>
+    <string name="http_server_integration">Integração AndroidAPS, Pebble, Garmin, Nightguard(... )!</string>
+    <string name="home_device">Estado Dispositivo</string>
+    <string name="sensor_expired">Expirou</string>
+    <string name="sensor_activation">Activar</string>
+    <string name="login_out">Terminar Sessão</string>
+    <string name="home_track">Rastreio dos Meus Dados</string>
+    <string name="internal_ns">Credenciais Nightscout Share</string>
+    <string name="connection">Teste Ligação</string>
+    <string name="key">Chave</string>
+    <string name="alert_high">Hiper</string>
+    <string name="unit_day">dia</string>
+    <string name="upgrade">Actualização</string>
+    <string name="cgm">i-CGM</string>
+    <string name="sensor_failed">Falhou</string>
+    <string name="range_unit">Intervalo&amp;Unidade</string>
+    <string name="cgm_abott">Freestyle Libre</string>
+    <string name="disable_high_alerts">Desactivar Alertas Hiper</string>
+    <string name="cgm_scan">Pesquisar</string>
+    <string name="h1">1H</string>
+    <string name="wear_connect">Ligar Wear</string>
+    <string name="integration">Integração</string>
+    <string name="sensor_ready">Pronto</string>
+    <string name="cgm_echo">Echo Therapeutiss</string>
+    <string name="about_name">versão</string>
+    <string name="instructions">Instruções</string>
+    <string name="mmol">mmol/L</string>
+    <string name="hour3">12 horas</string>
+    <string name="alert_sensor_life">Termina Antes</string>
+    <string name="alert_miss_reading">Leitura Perdida</string>
+    <string name="a_understand">PERCEBO E CONCORDO</string>
+    <string name="alert_sound">Som</string>
+    <string name="this_app_needs_battery_optimization_whitelisting_or_it_will_not_work_well_please_reset_app_preferences">Esta aplicação precisa da optimização da bateria na lista de permissões ou não funcionará bem. Redefina as preferências da aplicação</string>
+    <string name="start_new_sensor">Iniciar Novo Sensor</string>
+    <string name="hour2">6 horas</string>
+    <string name="sensor_ended">Terminado</string>
+    <string name="re_enable_low_alerts">Re-Activar Alertas Hipo</string>
+    <string name="below_title">Abaixo</string>
+    <string name="noty_drop_title">Glicose a Descer</string>
+    <string name="alert_snoozed_title">Glicose no sensor é de %1$s</string>
+    <string name="dexpwd_empty">Senha DexShare Vazia</string>
+    <string name="insulin">Insulina</string>
+    <string name="a_content">DiaBox NÃO DEVE SER USADA PARA TOMAR DECISÕES MÉDICAS. É APENAS UMA FERRAMENTA DE PESQUISA E EDUCAÇÃO E FORNECIDASEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO A, AS GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. O RISCO INTEIRO DA QUALIDADE E DESEMPENHO DO PROGRAMA ESTÁ CONSIGO. DEVE O PROGRAMA PROVAR DEFEITO, VOCÊ ASSUME O CUSTO DE TODA A MANUTENÇÃO, REPARO OU CORRECÇÃO NECESSÁRIA</string>
+    <string name="ea1c">eA1C</string>
+    <string name="login">Login</string>
+    <string name="a_title">Acordo</string>
+    <string name="hour1">3 horas</string>
+    <string name="connected_success">Ligado com sucesso</string>
+    <string name="range_content">A percentagem de hoje de leituras dentro do intervalo normal configurado ( %1$s ).</string>
+    <string name="iftt">IFTT</string>
+    <string name="h3">3H</string>
+    <string name="hour">Horas</string>
+    <string name="high">Hiper</string>
+    <string name="loop_offline">Funcionar como fonte de dados CGM para APS</string>
+    <string name="noty_sensorlife_content">Vida Sensor :</string>
+    <string name="cgm_roche">Diagnósticos Roche</string>
+    <string name="calibration_content">Tenha cuidado por favor! Escolher Calibração LSR significa que a glicose do sensor será gerada por outro algoritmo; a leitura da glicose seria diferente do receptor oficial; deve correr todo o risco quando estiver nele. Esse algoritmo de calibração implementou a lógica com base em https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764224</string>
+    <string name="scan_tips">Dispositivo não encontrado, verifique que o Bubble está completamente carregado e perto do telemóvel</string>
+    <string name="cgm_other">Outros Dispositivos</string>
+    <string name="exercise">Exercício</string>
+    <string name="setting">Definição</string>
+    <string name="protein">proteína</string>
+    <string name="medication">Medicação</string>
+    <string name="save">Guardar</string>
+    <string name="mgdl">mg/dL</string>
+    <string name="note">Nota</string>
+    <string name="details_title">Detalhes</string>
+    <string name="h24">24H</string>
+    <string name="extreme_high">Muito Alto</string>
+    <string name="min">min</string>
+    <string name="service">Serviço</string>
+    <string name="time_format">Formato Horas</string>
+    <string name="display_high">Altura Gráfico</string>
+    <string name="h12">12H</string>
+    <string name="urgent_low">Muito Baixo</string>
+    <string name="url">Url</string>
+    <string name="details_state">Estado Ligação</string>
+    <string name="noty_drop_content">Glicose a Descer:</string>
+    <string name="check_firmware">Verificar</string>
+    <string name="gauges_title">Adicionar Indicadores</string>
+    <string name="http_server">Servidor HTTP Interno</string>
+    <string name="cgm_medtronic">Medtronic</string>
+    <string name="alert_low">Hipo</string>
+    <string name="cals">calorias</string>
+    <string name="noty_missreading_content">Leitura Perdida :</string>
+    <string name="cal">Cal</string>
+    <string name="cgm_dexcom">Dexcom</string>
+    <string name="average_content">Valor Médio de Hoje.</string>
+    <string name="login_success">Login com sucesso</string>
+    <string name="disconnect">Desligar</string>
+    <string name="details_name">Nome</string>
+    <string name="hour4">24 horas</string>
+    <string name="details_macaddress">EndereçoMAC</string>
+    <string name="day5">60 dias</string>
+    <string name="re_enable_high_alerts">Re-Activar Alertas Hiper</string>
+    <string name="details_hardware_version">Versão Hardware</string>
+    <string name="alert_content">Leitura de glicose do sensor é</string>
+    <string name="usaccount">Conta US</string>
+    <string name="fiber">fibra</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="g">g</string>
+    <string name="follower_mode">Modo Seguidor</string>
+    <string name="cgm_scan_title">Pesquisar Dispositivo</string>
+    <string name="day2">7 dias</string>
+    <string name="bubble_request_new_title">Dicas</string>
+    <string name="alert_snooze">Silenciar</string>
+    <string name="noty_rise_title">Glicose está a Subir</string>
+    <string name="sensor_not_running">Não Está A Correr</string>
+    <string name="range_info_title">Tempo No Intervalo</string>
+    <string name="alert">Alerta</string>
+    <string name="develop">Em breve……</string>
+    <string name="alert_drop">Diminuir Taxa</string>
+    <string name="sensor_error">Erro Sensor</string>
+    <string name="noty_sensorlife_title">Vida Sensor</string>
+    <string name="alert_snoozed_title2">Deseja Activar Alerta\?</string>
+    <string name="range_info">A quantidade mais recente de tempo em que as leituras permaneceram dentro do intervalo normal configurado (4,4 mmol/L - 6,7 mmol/L)
+\n
+\nSe esteve no intervalo durante a última hora, mas sua próxima leitura estiver fora do intervalo, \'Tempo no Intervalo\' será zerado.</string>
+    <string name="algorithm_title">Algoritmo</string>
+    <string name="above_content">A percentagem de hoje de leituras acima do intervalo normal configurado ( %1$s ).</string>
+    <string name="settings">Definições</string>
+    <string name="please_Allow_Permission">Por favor, Autorize Permissão</string>
+    <string name="brand_title">Seleccionar Marca</string>
+    <string name="language">Idioma</string>
+    <string name="below_content">A percentagem de hoje de leituras abaixo do intervalo normal configurado ( %1$s ).</string>
+    <string name="normal_range">Intervalo Normal</string>
+    <string name="sensor_not_broken">erro permanente</string>
+    <string name="needs_battery_optimization_whitelisting_for_proper_performance">Esta aplicação precisa da optimização da bateria na lista de permissões ou não funcionará bem.</string>
+    <string name="nsurl_empty">Url Nightscout Vazio</string>
+    <string name="calibration_title">Calibração</string>
+    <string name="alert_snoozed">Alerta Silenciado</string>
+    <string name="snooze">Silenciar</string>
+    <string name="details_sensor_status">Estado Sensor</string>
+    <string name="data_collection">Colecção de Dados</string>
+    <string name="alert2">Deseja atrasar o alarme\?</string>
+    <string name="choose_default">Por Defeito</string>
+    <string name="forget_device">Esquecer Dispositivo</string>
+    <string name="about_version">Versão</string>
+    <string name="sensor_not_started">Não Iniciado</string>
+    <string name="food">Alimentos</string>
+    <string name="start_upgrade">Iniciar Actualização</string>
+    <string name="h6">6H</string>
+    <string name="nskey_empty">API Key Nightscout Vazio</string>
+    <string name="fat">gordura</string>
+    <string name="noty_missreading_title">Leitura Perdida</string>
+    <string name="carbs_g">hidratos (g)</string>
+    <string name="app_name">DiaBox</string>
+    <string name="readings">Leituras</string>
+    <string name="ifcc">IFCC</string>
+    <string name="sensor_no">Sem Sensor</string>
+    <string name="details_battery">Nível Bateria</string>
+    <string name="dexcom_number">ID Transmissor</string>
+    <string name="choose_local">Local</string>
+    <string name="pills">medicação</string>
+    <string name="workflow_shortcuts">Workflow/Atalhos</string>
+    <string name="mmol_mol">(mmol/mol)</string>
+    <string name="alert_time">Horas</string>
+    <string name="noty_disconnect_content">Desligado:</string>
+    <string name="details_calibration_mode">Modo Calibração</string>
+    <string name="about">Acerca de</string>
+    <string name="details_firmware_version">Versão Firmware</string>
+    <string name="avg_glucose">Glicose Méd</string>
+    <string name="dexcom_share_server">Envio Servidor Dexcom Share</string>
+    <string name="home_device_name">Bubble</string>
+    <string name="all_alerts_disabled_until">"Todos alertas desactivados até "</string>
+    <string name="noty_battery_content">Nível Bateria é Menos Que:</string>
+    <string name="details_sn">Número de Série</string>
+    <string name="alert_glucose">Glicose</string>
+    <string name="day3">14 dias</string>
+    <string name="Dexcom_Share">Credenciais Dexcom Share</string>
+    <string name="add_cgm">Adicionar CGM</string>
+    <string name="A1C">eA1C(NGSP%)</string>
+    <string name="sleep_hours">Horas de Dormida</string>
+    <string name="connected">Ligado</string>
+    <string name="password">Senha</string>
+    <string name="cgm_scanning">A Pesquisar…</string>
+    <string name="add_note">adicionar nota</string>
+    <string name="dexname_empty">Nome DexShare Vazio</string>
+    <string name="disable_all_alerts">Desactivar Todos Alertas</string>
+    <string name="alert_snoozed_all">Todos Alertas
+\nSilenciados</string>
+    <string name="range_title">No Intervalo</string>
+    <string name="server">Servidor</string>
+    <string name="reading">A ler</string>
+    <string name="day4">30 dias</string>
+    <string name="alert_low_battery">Bateria Fraca</string>
+    <string name="high_alerts_disabled_until">"Alertas Hiper desactivados até "</string>
+    <string name="dexcom_num">Código Calibração</string>
+    <string name="dexcom_title">Dexcom</string>
+    <string name="day1">1 dia</string>
+    <string name="average_title">Média</string>
+    <string name="alert_devices">Dispositivo</string>
+    <string name="donation">Doação</string>
+    <string name="never">Nunca</string>
+    <string name="speak_bg_reading">Falar Leituras</string>
+    <string name="speak_bg_trend">Falar Tendência Glicose</string>
+    <string name="speak_bg_delta">Falar Delta Glicose</string>
+    <string name="speak_interval">Intervalo</string>
+    <string name="speak_high">Limites Hiper</string>
+    <string name="speak_low">Limites Hipo</string>
+    <string name="nfc_scan">A Pesquisar…</string>
+    <string name="speak_override">Sobrepôr Volume de Sistema</string>
+    <string name="nfc_io_error">Erro NFC IO…</string>
+    <string name="speak_custom_volume">Volume Personalizado</string>
+    <string name="unit_days">dias</string>
+    <string name="trendnoncomputable">não computável</string>
+    <string name="nfc_error">Erro NFC</string>
+    <string name="add_calibration">Adicionar Calibração</string>
+    <string name="trenddoubledown">descida muito rápida</string>
+    <string name="nfc_timeout">Tempo de diagnóstico NFC expirou</string>
+    <string name="nfc_mode">Modo NFC</string>
+    <string name="add">Adicionar</string>
+    <string name="nfc_forget">Esquecer actual dispositivo\?</string>
+    <string name="trendsingledown">descida considerável</string>
+    <string name="sensor_mode_reset">Repor</string>
+    <string name="trendfortyfivedown">descida</string>
+    <string name="nfc_enable">Activar NFC Simultaneamente</string>
+    <string name="nfc_change_sensor">Quer substituir o sensor\?</string>
+    <string name="sensor_mode_restart">Reiniciar</string>
+    <string name="trendflat">estável</string>
+    <string name="alert_vibrate">Vibrar</string>
+    <string name="alert_off">DESL.</string>
+    <string name="alert_on">LIG.</string>
+    <string name="share_data">Partilhar dados com smartwatches</string>
+    <string name="trenddoubleup">subida muito rápida</string>
+    <string name="sensor_reset">Repor Sensor Libre1\?</string>
+    <string name="invalid_code">Código Inválido</string>
+    <string name="sensor_restart">Reiniciar Sensor Libre1\?</string>
+    <string name="sensor_restart_content">Este recurso é altamente experimental e pode danificar o sensor permanentemente. Não há garantia de precisão e NÃO o utilize para tomar quaisquer decisões médicas. Todas as consequências são por sua própria conta e risco.</string>
+    <string name="sensor_mode">Modo Sensor</string>
+    <string name="trendfortyfiveup">subida</string>
+    <string name="trendsingleup">subida considerável</string>
+    <string name="alert_disable_title">Deseja Activar Alerta %1$s\?</string>
+    <string name="sensor_reset_error">Falhou Repor Sensor</string>
+    <string name="sensor_reset_success">Sensor Reposto Com Sucesso</string>
+    <string name="sensor_reset_content">Este recurso é altamente experimental e pode danificar o sensor permanentemente. Não há garantia de precisão e NÃO o utilize para tomar quaisquer decisões médicas. Todas as consequências são por sua própria conta e risco.</string>
+    <string name="smooth_item">Suave</string>
+    <string name="sensor_restart_error">Reinício Sensor Falhou</string>
+    <string name="savitzky_golay">Savitzky-Golay</string>
+    <string name="share_data_content">Pebble,Garmin,Nightguard...Integration!</string>
+    <string name="sensor_restart_success">Sensor Reiniciado Com Sucesso</string>
+    <string name="sensor_restart_permanent">Mudar Um Novo Sensor</string>
+    <string name="sensor_restart_permanent_content">O sensor está com defeito e não pode ser reiniciado.\\nMude para um novo sensor!</string>
+    <string name="speech_setting">Definição da Fala</string>
+    <string name="sensor_please_wait">Por favor, aguarde</string>
+    <string name="algorithm_item">Algoritmo</string>
+    <string name="speak_use_glucose">Utilize Limites Glicose</string>
+    <string name="alert_off_tips">" Alerta Desligado"</string>
+    <string name="kalman">kalman</string>
+    <string name="sensor_activate_error">Sensor Activo Falhou</string>
+    <string name="sensor_activate_success">Sensor Activado Com Sucesso</string>
+    <string name="bluetooth_off">Bluetooth está DESLIGADO</string>
+    <string name="bluetooth_off_content">Ligue Bluetooth para Diabox receber leituras e alertar.</string>
+    <string name="donors">Obrigado aos doadores, Todos (nomes ordenados) numa ordem aleatória:</string>
+    <string name="alert_disable_content">Perderá todos %1$s Alertas \\naté que reactive qualquer tom ou vibração</string>
+    <string name="add_cgm_bubble">Adicionar Bubble</string>
+    <string name="enter_first_bg_value">Insira Primeiro Valor Glicose</string>
+    <string name="master_magic_code">Código Mestre</string>
+    <string name="enter_second_bg_value">Insira Segundo Valor Glicose</string>
+    <string name="cal_time_2h">"Ponto Calibração  tem que occorrer no mínimo de 2 horas após um ponto de calibração bem sucedido."</string>
+    <string name="calibration_can_not_be_blank">Calibração não pode estar vazia</string>
+    <string name="recommended_ns_service">Servidor NS recomendado</string>
+    <string name="share_gwatch_data">Partilhar dados com GWatch</string>
+    <string name="watch">Relógio</string>
+    <string name="enter_blood_glucose_value">Insira Valor da Glicose</string>
+    <string name="thresholds">Limites</string>
+    <string name="override_calibration">Sobrepor Calibração</string>
+    <string name="A1C_key">A1C</string>
+    <string name="calibration_graph_no_calibration">Gráfico Calibração (sem calibração)</string>
+    <string name="get_new_glucose">Obter Nova Leitura de Glicose....</string>
+    <string name="calibration_plugin_header">principal plugin de calibração</string>
+    <string name="rad_h1">1d</string>
+    <string name="rad_h2">7d</string>
+    <string name="calibration_out_of_range">"Calibração só funciona no Intervalo %1$s--%2$s %3$s
+\n     Por favor, Calibre quando a Glicose estiver no Intervalo."</string>
+    <string name="rad_h3">14d</string>
+    <string name="calibration_glucose_30min">"O valor do Sensor é demasiado estável para calibrar,
+\n        verifique o sensor com o Leitor ou app Librelink"</string>
+    <string name="calibration_glucose_18min">"Tem que ter 3 leituras de glicose dentro de 18 minutos,
+\n        verique sensor com o Leitor ou app Librelink"</string>
+    <string name="rad_h4">1M</string>
+    <string name="calibration_mode_factory">Fábrica</string>
+    <string name="rad_h5">3M</string>
+    <string name="calibration_mode_calibration">Modo de Calibração Glicose</string>
+    <string name="nightscout">Nightscout</string>
+    <string name="delete_key">Eliminar</string>
+    <string name="reset_calibration">Repor Calibração</string>
+    <string name="delete_all_key">Eliminar Todos</string>
+    <string name="calibration_rules">Regras de Calibração</string>
+    <string name="calibrationt_available">Não é um bom ponto de Calibração, tente Calibrar dentro de 30 minutos</string>
+    <string name="invalid_qr_code">Código QR Inválido</string>
+    <string name="details_maxsensorlife">VidaMaxSensor</string>
+    <string name="copy_success">Copiado Com Sucesso</string>
+    <string name="reading_min">Actualizar Leitura em 1 min de intervalo</string>
+    <string name="calibration_delete">Eliminar este Dado de Calibração\?</string>
+    <string name="unit_minutes1">m</string>
+    <string name="calibration_delete_all">Eliminar Todos os Dados de Calibração\?</string>
+    <string name="all_alerts_disabled_until_reenable">Todos os Alertas Desactivados até serem Re-Activados</string>
+    <string name="add_ns">Adicionar Nightscout</string>
+    <string name="toast_graph_height">Altura do Gráfico não pode ser definida inferior ao Alvo Hiper/Muito Alto</string>
+    <string name="day_1">1 Dia</string>
+    <string name="sensor_magic_code">Código Mágico Sensor</string>
+    <string name="unit_day1">d</string>
+    <string name="days_7">7 Dias</string>
+    <string name="algorithm_magic_code">Código Mágico Algoritmo</string>
+    <string name="days_14">14 Dias</string>
+    <string name="nfc_tap">Por favor Toque com o NFC</string>
+    <string name="unit_hour1">h</string>
+    <string name="month_1">1 Mês</string>
+    <string name="nfc_scan_title">Pronto a Pesquisar</string>
+    <string name="months_3">3 Meses</string>
+    <string name="ntf_delta">Delta:</string>
+    <string name="nfc_scan_success">Leitura NFC Com Sucesso</string>
+    <string name="LibreView_Share">Credenciais LibreView</string>
+    <string name="nfc_libre2_check">Ligação Directa ao BT Libre2</string>
+    <string name="email">Email</string>
+    <string name="libreviewemail_empty">Email Vazio</string>
+    <string name="automatic_bluetooth">Forçar Reinício Bluetooth</string>
+    <string name="libreviewpwd_empty">Senha Vazia</string>
+    <string name="nfc_scan_error">Erro ao ler NFC</string>
+    <string name="nfc_scan_timeout">Expirou Leitura NFC</string>
+    <string name="sensor_time_left">Termina</string>
+    <string name="libreview_server">Envio LibreView</string>
+    <string name="nfc_off">NFC DESL.</string>
+    <string name="libreview_logout">"LibreView  sessão terminou"</string>
+    <string name="libreview_logout2">A sessão da sua conta LibreView terminou, tem que iniciar a sessão na Diabox</string>
+    <string name="difference_glucose_check">Diferença entre Glicose no Sensor e Teste Capilar</string>
+    <string name="calibration_time_check">Depois do primeiro ponto válido de Glicose, pelo menos serão precisos 15 mins para introduzir o próximo ponto de calibração</string>
+    <string name="sensor_status_check">Verificar Estado Sensor</string>
+    <string name="share_gwatch_data_content">Integração GWatch!</string>
+    <string name="change_rate_check">Alterar Taxa da Glicose</string>
+    <string name="nfc_change_ble_connect">Bubble será desconectado se alterar para Modo Directo BLE Libre2</string>
+    <string name="sensor_unsupported">Sensor Não Suportado</string>
+    <string name="watlaa">Watlaa</string>
+    <string name="calibration_confirm">Confirme se Teste Glicose é</string>
+    <string name="glucose_range_check">Verificar Intervalo Glicose</string>
+    <string name="bubble_fw_update">Por favor, Actualize o Bubble para o último Firmware para obter suporte nativo para Libre2/Pro/US 14 dias</string>
+    <string name="calibration_sensor_status">"Calibração não está disponível quando o Sensor é  %1$s
+\n        ,verifique o sensor com o Leitor ou app Librelink"</string>
+
+    <!--2021-03-23-->
+    <string name="import_db" translatable="false">Impportar/Exportar</string>
+    <string name="import_tilte" translatable="false">Importar</string>
+    <string name="import_content" translatable="false">Importar estes dados</string>
+    <string name="version_details" translatable="false">Detalhes da Versão</string>
+    <string name="download_now" translatable="false">Descarregar Agora</string>
+    <string name="downloaded" translatable="false">Descarregado</string>
+    <string name="failed" translatable="false">Falhou</string>
+    <string name="update_is_in_your_downloads_folder" translatable="false">Actualização encontra-se na pasta Downloads</string>
+    <string name="file_appears_corrupt" translatable="false">Ficheiro corrompido!</string>
+    <string name="download_timeout" translatable="false">Tempo experiou para descarregamento!</string>
+    <string name="internal_problems" translatable="false">Problemas internos - a tentar com sistema Android</string>
+    <string name="data_error" translatable="false">Dados de Erro: </string>
+    <string name="need_permission_download" translatable="false">Requer permissão para descarregar o ficheiro</string>
+    <string name="already_downloading" translatable="false">Já a descarregar!</string>
+    <string name="attempting_background_download" translatable="false">A tentar descarregar em plano de fundo...</string>
+    <string name="latest_version" translatable="false">Esta é a última versão</string>
+    <string name="a_new_version_is_available" translatable="false">Está disponível uma nova versão</string>
+    <string name="glucose_oop_min" translatable="false">Limiar de Restrição de Hipo no Sensor</string>
+    <string name="glucose_oop_max" translatable="false">Limiar de Restrição de Hiper no Sensor</string>
+    <string name="calibration_time" translatable="false">Ponto de Dados de Calibração Glicemia Expirou</string>
+    <string name="libre2_disconnected" translatable="false">Não consegue Calibrar Libre2 Desconectado com a Diabox há mais de 5 minutos</string>
+    <string name="unit_Day" translatable="false">Dia</string>
+    <string name="master" translatable="false">Mestre</string>
+    <string name="follower" translatable="false">Convite Seguidor</string>
+    <string name="sign_in" translatable="false">Inicie a Sessão</string>
+    <string name="diabox_follow" translatable="false">Seguidor Diabox</string>
+    <string name="diabox_follower_name" translatable="false">Seguido:%1$s</string>
+    <string name="add_follower_success" translatable="false">Está a seguir:%1$s</string>
+    <string name="follower_delete" translatable="false">Eliminar Seguidor</string>
+    <string name="follower_management" translatable="false">Gestão de Seguidor</string>
+    <string name="follower_token_timeout" translatable="false">Token Expirou, Requira novo Código QR Seguidor</string>
+    <string name="share_log" translatable="false">Partilhe Registo</string>
+    <string name="userprofile" translatable="false">PerfilUtilizador</string>
+    <string name="userprofile_name" translatable="false">Alcunha</string>
+    <string name="userprofile_photo" translatable="false">Foto</string>
+    <string name="sensor_activation_success_wait" translatable="false">Sensor está activado, estará pronto em:%1$s</string>
+    <string name="log_out_content" translatable="false">Terminar Sessão. Terá que Iniciar Sessão novamente</string>
+    <string name="check_firmware_new_version" translatable="false">Verificar nova versão do Firmware</string>
+</resources>
